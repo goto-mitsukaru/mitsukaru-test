@@ -1,0 +1,38 @@
+
+[export_log] 2023-12-29 05:27:14
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["lastname"]',
+  ),
+)
+[export_log] 2023-12-29 13:09:46
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '189301',
+        'msg' => '[success]コンタクト登録: 189301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '鈴木',
+      'firstname' => '一平',
+      'vvzz3' => '3～5年',
+      'state' => '大阪府',
+      'email' => 'peipeimoneyfreedial@gmail.com',
+      'phone' => '09019604361',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

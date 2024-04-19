@@ -1,0 +1,1 @@
+../HubSpot.phpから出力.ファイル形式yyyymmdd.txt

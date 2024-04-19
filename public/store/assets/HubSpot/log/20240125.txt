@@ -1,0 +1,48 @@
+
+[export_log] 2024-01-25 01:58:41
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '204051',
+        'msg' => '[success]コンタクト登録: 204051',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '千葉県',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '400～500万未満',
+      'lastname' => 'いしい',
+      'firstname' => 'だいち',
+      'email' => 'daichi.aut@gmail.com',
+      'phone' => '09056398741',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-25 17:39:41
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["lastname"]',
+  ),
+)
+[export_log] 2024-01-25 17:53:47
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["lastname"]',
+  ),
+)

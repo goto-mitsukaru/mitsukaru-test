@@ -1,0 +1,1511 @@
+
+[export_log] 2023-11-20 02:07:30
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '715201',
+        'msg' => '[success]コンタクト登録: 715201',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_others',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '9370041',
+      'state' => '富山県',
+      'city' => '魚津市',
+      'lastname' => '吉村実佳',
+      'birthyear' => '1993',
+      'mobilephone' => '09056838673',
+      'email' => 'marimo14mika@ezweb.ne.jp',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 09:24:29
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '715301',
+        'msg' => '[success]コンタクト登録: 715301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '2540905',
+      'state' => '神奈川県',
+      'city' => '平塚市',
+      'lastname' => '畑　美会',
+      'birthyear' => '1978',
+      'mobilephone' => '09040015628',
+      'email' => 'onelifeonechance112@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 10:33:00
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '715551',
+        'msg' => '[success]コンタクト登録: 715551',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_others',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '4328051',
+      'state' => '静岡県',
+      'city' => '浜松市南区',
+      'lastname' => '松本茉麻',
+      'birthyear' => '1984',
+      'mobilephone' => '09026279145',
+      'email' => 'maaaaaaaasa.tms@icloud.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 12:30:06
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '645651',
+        'msg' => '[success]コンタクト更新成功: 645651',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '6310035',
+      'state' => '奈良県',
+      'city' => '奈良市',
+      'lastname' => '山根 秀太',
+      'birthyear' => '1989',
+      'mobilephone' => '09012497860',
+      'email' => 's.yamane0803@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 15:09:36
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '716251',
+        'msg' => '[success]コンタクト登録: 716251',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_Subjectpasser',
+      'start_date_' => '未定',
+      'experience' => '7年以上',
+      'zip' => '5550034',
+      'state' => '大阪府',
+      'city' => '大阪市西淀川区',
+      'lastname' => '宮迫　奈津代',
+      'birthyear' => '1969',
+      'mobilephone' => '08078957487',
+      'email' => 'natsuyo.3835@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 15:52:08
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '716401',
+        'msg' => '[success]コンタクト登録: 716401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '未定',
+      'experience' => '未経験',
+      'zip' => '4250072',
+      'state' => '静岡県',
+      'city' => '焼津市',
+      'lastname' => '岩崎嵩都',
+      'birthyear' => '2008',
+      'mobilephone' => '08073810560',
+      'email' => 'moti0116@icloud.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 15:52:14
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '716401',
+        'msg' => '[success]コンタクト更新成功: 716401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '未定',
+      'experience' => '未経験',
+      'zip' => '4250072',
+      'state' => '静岡県',
+      'city' => '焼津市',
+      'lastname' => '岩崎嵩都',
+      'birthyear' => '2008',
+      'mobilephone' => '08073810560',
+      'email' => 'moti0116@icloud.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 15:52:21
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '716401',
+        'msg' => '[success]コンタクト更新成功: 716401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '未定',
+      'experience' => '未経験',
+      'zip' => '4250072',
+      'state' => '静岡県',
+      'city' => '焼津市',
+      'lastname' => '岩崎嵩都',
+      'birthyear' => '2008',
+      'mobilephone' => '08073810560',
+      'email' => 'moti0116@icloud.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 16:59:37
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '679351',
+        'msg' => '[success]コンタクト更新成功: 679351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '5010119',
+      'state' => '岐阜県',
+      'city' => '岐阜市',
+      'lastname' => '吉本倫子',
+      'birthyear' => '1946',
+      'mobilephone' => '09037753464',
+      'email' => 'tapetumtapetum123@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 17:43:13
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '716901',
+        'msg' => '[success]コンタクト登録: 716901',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '6ヶ月以内',
+      'experience' => '3年～5年',
+      'zip' => '3330866',
+      'state' => '埼玉県',
+      'city' => '川口市',
+      'lastname' => 'あゆか',
+      'birthyear' => '1973',
+      'mobilephone' => '09011934111',
+      'email' => 'yumikaki76@yahoo.co.jp',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 18:38:17
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '717151',
+        'msg' => '[success]コンタクト登録: 717151',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => 'まだ辞めるとは決められない',
+      'skill' => 'skill_others',
+      'start_date_' => '未定',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '5810823',
+      'state' => '大阪府',
+      'city' => '八尾市',
+      'lastname' => '義明',
+      'birthyear' => '1982',
+      'mobilephone' => '08025090013',
+      'email' => 'sykr1729@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-11-20 19:12:46
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスjpm (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"EメールアドレスjpmpmgJn@mpTは無効です\\",\\"error\\":\\"INVALID_EMAIL\\",\\"name\\":\\"email\\"}]","correlationId":"a045b9cd-9a30-4527-aa7f-0f3bf414a971","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 20 Nov 2023 10:12:46 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '282',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '828fea9d698a29de-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '54',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-66c9b4c4f4-4xxld',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => 'a045b9cd-9a30-4527-aa7f-0f3bf414a971',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499981',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => 'a045b9cd-9a30-4527-aa7f-0f3bf414a971',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B0C50EC01B334C6ABD4C4893C42D9528827C2EBB3000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=xlfcpuG2ptpLoeRfAKNDFS4UC5kKYGkq8SkOu4xWraqhZ7X6kOs2E%2FoToNgSWJGSIg6CzX91flgId3ZE85stIcgZ9lRxnp3EwjihMj9uw8bo0t3nlV1st5ctrPNzMvTP"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"EメールアドレスjpmpmgJn@mpTは無効です","error":"INVALID_EMAIL","name":"email"}]',
+          'correlation_id' => 'a045b9cd-9a30-4527-aa7f-0f3bf414a971',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスjpm (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => 'まだ辞めるとは決められない',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '12ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '5986958',
+                  'state' => '愛媛県',
+                  'city' => '今治市',
+                  'lastname' => 'カイト',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'jpmpmgJn@mpT',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 121,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => 'まだ辞めるとは決められない',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '12ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '5986958',
+                  'state' => '愛媛県',
+                  'city' => '今治市',
+                  'lastname' => 'カイト',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'jpmpmgJn@mpT',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 89,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => 'まだ辞めるとは決められない',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '12ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '5986958',
+              'state' => '愛媛県',
+              'city' => '今治市',
+              'lastname' => 'カイト',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'jpmpmgJn@mpT',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/lp06/send.php',
+          'line' => 139,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => 'まだ辞めるとは決められない',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '12ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '5986958',
+              'state' => '愛媛県',
+              'city' => '今治市',
+              'lastname' => 'カイト',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'jpmpmgJn@mpT',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-11-20 19:12:46
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスjpm (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"EメールアドレスjpmpmgJn@mpTは無効です\\",\\"error\\":\\"INVALID_EMAIL\\",\\"name\\":\\"email\\"}]","correlationId":"a045b9cd-9a30-4527-aa7f-0f3bf414a971","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 20 Nov 2023 10:12:46 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '282',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '828fea9d698a29de-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '54',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-66c9b4c4f4-4xxld',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => 'a045b9cd-9a30-4527-aa7f-0f3bf414a971',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499981',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => 'a045b9cd-9a30-4527-aa7f-0f3bf414a971',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B0C50EC01B334C6ABD4C4893C42D9528827C2EBB3000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=xlfcpuG2ptpLoeRfAKNDFS4UC5kKYGkq8SkOu4xWraqhZ7X6kOs2E%2FoToNgSWJGSIg6CzX91flgId3ZE85stIcgZ9lRxnp3EwjihMj9uw8bo0t3nlV1st5ctrPNzMvTP"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"EメールアドレスjpmpmgJn@mpTは無効です","error":"INVALID_EMAIL","name":"email"}]',
+          'correlation_id' => 'a045b9cd-9a30-4527-aa7f-0f3bf414a971',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスjpm (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => 'まだ辞めるとは決められない',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '12ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '5986958',
+                  'state' => '愛媛県',
+                  'city' => '今治市',
+                  'lastname' => 'カイト',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'jpmpmgJn@mpT',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 121,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => 'まだ辞めるとは決められない',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '12ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '5986958',
+                  'state' => '愛媛県',
+                  'city' => '今治市',
+                  'lastname' => 'カイト',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'jpmpmgJn@mpT',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 89,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => 'まだ辞めるとは決められない',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '12ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '5986958',
+              'state' => '愛媛県',
+              'city' => '今治市',
+              'lastname' => 'カイト',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'jpmpmgJn@mpT',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/lp06/send.php',
+          'line' => 139,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => 'まだ辞めるとは決められない',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '12ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '5986958',
+              'state' => '愛媛県',
+              'city' => '今治市',
+              'lastname' => 'カイト',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'jpmpmgJn@mpT',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-11-20 19:13:54
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスwpw (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"EメールアドレスwpwgWxgtsdg@mtqは無効です\\",\\"error\\":\\"INVALID_EMAIL\\",\\"name\\":\\"email\\"}]","correlationId":"97fc1f42-5dc8-4559-9e70-9f9ff752452f","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 20 Nov 2023 10:13:54 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '285',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '828fec43ee2929d4-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '51',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-66c9b4c4f4-plknm',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '97fc1f42-5dc8-4559-9e70-9f9ff752452f',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499980',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '97fc1f42-5dc8-4559-9e70-9f9ff752452f',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B1DD0DF3EA50B2074DFC06E05885B8F2B5F544B1D000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=k2WRCA8jFM6ya1THMFzRmxNwuTV4ki3%2FrGlDff57STo15sBDxdC1IRzj6dHHPyt0fWWyabJvRofv6U2juLw7vrrrrvTSj%2FJ06L%2FqRz4HZ19B6WLLSLrudGBMGabpkfW%2B"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"EメールアドレスwpwgWxgtsdg@mtqは無効です","error":"INVALID_EMAIL","name":"email"}]',
+          'correlation_id' => '97fc1f42-5dc8-4559-9e70-9f9ff752452f',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスwpw (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '3年～5年',
+                  'zip' => '1000001',
+                  'state' => '東京都',
+                  'city' => '千代田区',
+                  'lastname' => 'tgmgmgt',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'wpwgWxgtsdg@mtq',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 121,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '3年～5年',
+                  'zip' => '1000001',
+                  'state' => '東京都',
+                  'city' => '千代田区',
+                  'lastname' => 'tgmgmgt',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'wpwgWxgtsdg@mtq',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 89,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '3年～5年',
+              'zip' => '1000001',
+              'state' => '東京都',
+              'city' => '千代田区',
+              'lastname' => 'tgmgmgt',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'wpwgWxgtsdg@mtq',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/lp06/send.php',
+          'line' => 139,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '3年～5年',
+              'zip' => '1000001',
+              'state' => '東京都',
+              'city' => '千代田区',
+              'lastname' => 'tgmgmgt',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'wpwgWxgtsdg@mtq',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-11-20 19:13:54
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスwpw (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"EメールアドレスwpwgWxgtsdg@mtqは無効です\\",\\"error\\":\\"INVALID_EMAIL\\",\\"name\\":\\"email\\"}]","correlationId":"97fc1f42-5dc8-4559-9e70-9f9ff752452f","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 20 Nov 2023 10:13:54 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '285',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '828fec43ee2929d4-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '51',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-66c9b4c4f4-plknm',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '97fc1f42-5dc8-4559-9e70-9f9ff752452f',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499980',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '97fc1f42-5dc8-4559-9e70-9f9ff752452f',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B1DD0DF3EA50B2074DFC06E05885B8F2B5F544B1D000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=k2WRCA8jFM6ya1THMFzRmxNwuTV4ki3%2FrGlDff57STo15sBDxdC1IRzj6dHHPyt0fWWyabJvRofv6U2juLw7vrrrrvTSj%2FJ06L%2FqRz4HZ19B6WLLSLrudGBMGabpkfW%2B"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"EメールアドレスwpwgWxgtsdg@mtqは無効です","error":"INVALID_EMAIL","name":"email"}]',
+          'correlation_id' => '97fc1f42-5dc8-4559-9e70-9f9ff752452f',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスwpw (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '3年～5年',
+                  'zip' => '1000001',
+                  'state' => '東京都',
+                  'city' => '千代田区',
+                  'lastname' => 'tgmgmgt',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'wpwgWxgtsdg@mtq',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 121,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_zeirishi',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '3年～5年',
+                  'zip' => '1000001',
+                  'state' => '東京都',
+                  'city' => '千代田区',
+                  'lastname' => 'tgmgmgt',
+                  'birthyear' => '1999',
+                  'mobilephone' => '09012345678',
+                  'email' => 'wpwgWxgtsdg@mtq',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 89,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '3年～5年',
+              'zip' => '1000001',
+              'state' => '東京都',
+              'city' => '千代田区',
+              'lastname' => 'tgmgmgt',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'wpwgWxgtsdg@mtq',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/lp06/send.php',
+          'line' => 139,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_zeirishi',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '3年～5年',
+              'zip' => '1000001',
+              'state' => '東京都',
+              'city' => '千代田区',
+              'lastname' => 'tgmgmgt',
+              'birthyear' => '1999',
+              'mobilephone' => '09012345678',
+              'email' => 'wpwgWxgtsdg@mtq',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)

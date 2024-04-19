@@ -1,0 +1,833 @@
+
+[export_log] 2024-01-06 21:50:21
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"41541e9f-491e-4628-ba07-ab5f0dad1129"}
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"41541e9f-491e-4628-ba07-ab5f0dad1129"}
+',
+       'string' => '',
+       'code' => 404,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 249,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 225,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 95,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1176,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        5 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"resource not found","correlationId":"41541e9f-491e-4628-ba07-ab5f0dad1129"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Sat, 06 Jan 2024 12:50:21 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '104',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '841416108ebe29d7-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '37',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-mqb6q',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '41541e9f-491e-4628-ba07-ab5f0dad1129',
+        ),
+        'X-HubSpot-NotFound' => 
+        array (
+          0 => 'true',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499998',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '41541e9f-491e-4628-ba07-ab5f0dad1129',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2BFEAC59CB8615569C4682A049D17D20BC07F73779000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=xaK0AkrmTduLFb4dZUC2IsyGlwQeHqWxvMdyNZpAe%2FKYn%2FpsND%2BDdJN81kAulZQC7XdHRKO9PDM88AJUqcNARyTHmu%2FCYWv%2B9XPwFYrrzp5TyPH%2FPDEPfn%2B0OLga8Icx"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'resource not found',
+          'correlation_id' => '41541e9f-491e-4628-ba07-ab5f0dad1129',
+          'category' => NULL,
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-06 21:50:21
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"41541e9f-491e-4628-ba07-ab5f0dad1129"}
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"41541e9f-491e-4628-ba07-ab5f0dad1129"}
+',
+       'string' => '',
+       'code' => 404,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 249,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 225,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 95,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1176,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        5 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"resource not found","correlationId":"41541e9f-491e-4628-ba07-ab5f0dad1129"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Sat, 06 Jan 2024 12:50:21 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '104',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '841416108ebe29d7-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '37',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-mqb6q',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '41541e9f-491e-4628-ba07-ab5f0dad1129',
+        ),
+        'X-HubSpot-NotFound' => 
+        array (
+          0 => 'true',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499998',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '41541e9f-491e-4628-ba07-ab5f0dad1129',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2BFEAC59CB8615569C4682A049D17D20BC07F73779000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=xaK0AkrmTduLFb4dZUC2IsyGlwQeHqWxvMdyNZpAe%2FKYn%2FpsND%2BDdJN81kAulZQC7XdHRKO9PDM88AJUqcNARyTHmu%2FCYWv%2B9XPwFYrrzp5TyPH%2FPDEPfn%2B0OLga8Icx"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'resource not found',
+          'correlation_id' => '41541e9f-491e-4628-ba07-ab5f0dad1129',
+          'category' => NULL,
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-06 21:50:23
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b"}
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b"}
+',
+       'string' => '',
+       'code' => 404,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 249,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 225,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 95,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1176,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        5 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"resource not found","correlationId":"84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Sat, 06 Jan 2024 12:50:23 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '104',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8414161bfde329dd-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '41',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-s4mnd',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b',
+        ),
+        'X-HubSpot-NotFound' => 
+        array (
+          0 => 'true',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499996',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '147',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B229249239AEA222C63B61FFB3E03DCA7737360D6000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=DeQ3Aw%2FUgpvk7cmu85lRyvYy%2F4Mk5GgVqTaMHKHIBvzz7ZiDxCXDyt7Zf%2Bnua3w0Ukzsfhl1Fs8dpkhx4Z9CsW1I%2BhkcGZLzUH7QgEPL6tAkz7vl5ULbxnJCCaP%2FjS14"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'resource not found',
+          'correlation_id' => '84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b',
+          'category' => NULL,
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-06 21:50:23
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b"}
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[404] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/190801` resulted in a `404 Not Found` response:
+{"status":"error","message":"resource not found","correlationId":"84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b"}
+',
+       'string' => '',
+       'code' => 404,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 249,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 225,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 95,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1176,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        5 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"resource not found","correlationId":"84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Sat, 06 Jan 2024 12:50:23 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '104',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8414161bfde329dd-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '41',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-s4mnd',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b',
+        ),
+        'X-HubSpot-NotFound' => 
+        array (
+          0 => 'true',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499996',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '147',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B229249239AEA222C63B61FFB3E03DCA7737360D6000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=DeQ3Aw%2FUgpvk7cmu85lRyvYy%2F4Mk5GgVqTaMHKHIBvzz7ZiDxCXDyt7Zf%2Bnua3w0Ukzsfhl1Fs8dpkhx4Z9CsW1I%2BhkcGZLzUH7QgEPL6tAkz7vl5ULbxnJCCaP%2FjS14"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'resource not found',
+          'correlation_id' => '84ae0f1a-1a8f-463f-b93b-d5107f8c1f9b',
+          'category' => NULL,
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)

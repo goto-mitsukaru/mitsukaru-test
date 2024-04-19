@@ -1,0 +1,1079 @@
+
+[export_log] 2023-12-12 00:38:43
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '760501',
+        'msg' => '[success]コンタクト登録: 760501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_Subjectpasser',
+      'start_date_' => '6ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '4228006',
+      'state' => '静岡県',
+      'city' => '静岡市駿河区',
+      'lastname' => '武井 潤',
+      'birthyear' => '1994',
+      'mobilephone' => '08011673465',
+      'email' => 'take105.ghost@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 05:36:10
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '760601',
+        'msg' => '[success]コンタクト登録: 760601',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_others',
+      'start_date_' => '6ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '7310103',
+      'state' => '広島県',
+      'city' => '広島市安佐南区',
+      'lastname' => '松本秀則',
+      'birthyear' => '1973',
+      'mobilephone' => '07035149354',
+      'email' => 'tma01997@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 07:26:33
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '609101',
+        'msg' => '[success]コンタクト更新成功: 609101',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '5年～7年',
+      'zip' => '1360072',
+      'state' => '東京都',
+      'city' => '江東区',
+      'lastname' => '永井　照子',
+      'birthyear' => '1972',
+      'mobilephone' => '09090185615',
+      'email' => 'teruteru318@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 07:26:35
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '609101',
+        'msg' => '[success]コンタクト更新成功: 609101',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '5年～7年',
+      'zip' => '1360072',
+      'state' => '東京都',
+      'city' => '江東区',
+      'lastname' => '永井　照子',
+      'birthyear' => '1972',
+      'mobilephone' => '09090185615',
+      'email' => 'teruteru318@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 08:21:18
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '760751',
+        'msg' => '[success]コンタクト登録: 760751',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '3370005',
+      'state' => '埼玉県',
+      'city' => 'さいたま市見沼区',
+      'lastname' => '大野 益佳',
+      'birthyear' => '1982',
+      'mobilephone' => '09077051001',
+      'email' => 'be.set.for.life0425@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 09:16:18
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '760901',
+        'msg' => '[success]コンタクト登録: 760901',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => 'すぐに辞めたい',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '1年～3年',
+      'zip' => '3510035',
+      'state' => '埼玉県',
+      'city' => '朝霞市',
+      'lastname' => '塚本雅子',
+      'birthyear' => '1980',
+      'mobilephone' => '08050634897',
+      'email' => 'm.tsukamoto1980@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 10:01:32
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '761051',
+        'msg' => '[success]コンタクト登録: 761051',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_others',
+      'start_date_' => '未定',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '4620012',
+      'state' => '愛知県',
+      'city' => '名古屋市北区',
+      'lastname' => 'ダオ　ティ　トゥイ',
+      'birthyear' => '1999',
+      'mobilephone' => '09076992546',
+      'email' => 'thuydaothi@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 10:01:35
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '761051',
+        'msg' => '[success]コンタクト更新成功: 761051',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_others',
+      'start_date_' => '未定',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '4620012',
+      'state' => '愛知県',
+      'city' => '名古屋市北区',
+      'lastname' => 'ダオ　ティ　トゥイ',
+      'birthyear' => '1999',
+      'mobilephone' => '09076992546',
+      'email' => 'thuydaothi@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 10:50:14
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '759651',
+        'msg' => '[success]コンタクト更新成功: 759651',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_zeirishi',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '1年～3年',
+      'zip' => '1410001',
+      'state' => '東京都',
+      'city' => '品川区',
+      'lastname' => 'テスト',
+      'birthyear' => '2000',
+      'mobilephone' => '08012345678',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 11:15:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '761301',
+        'msg' => '[success]コンタクト登録: 761301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_others',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '6101124',
+      'state' => '京都府',
+      'city' => '京都市西京区',
+      'lastname' => '小室幸弘',
+      'birthyear' => '1990',
+      'mobilephone' => '08061292707',
+      'email' => 'ko66yukihi6-77@ezweb.ne.jp',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 12:39:28
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '761601',
+        'msg' => '[success]コンタクト登録: 761601',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => 'すぐに辞めたい',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '5650832',
+      'state' => '大阪府',
+      'city' => '吹田市',
+      'lastname' => '新内 聖莉',
+      'birthyear' => '1998',
+      'mobilephone' => '08083004140',
+      'email' => 'shinuchiseri@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 14:15:06
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '761751',
+        'msg' => '[success]コンタクト登録: 761751',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '未経験',
+      'zip' => '5520021',
+      'state' => '大阪府',
+      'city' => '大阪市港区',
+      'lastname' => '楠林利之',
+      'birthyear' => '1981',
+      'mobilephone' => '09098819040',
+      'email' => 'koryu-no-daihougyoku-0079@au.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 17:12:28
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '762101',
+        'msg' => '[success]コンタクト登録: 762101',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => 'どんな求人募集があるか見てみたい',
+      'employment_status' => '離職中(退職確定済/未就職)',
+      'skill' => 'skill_others',
+      'start_date_' => '3ヶ月以内',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '2591117',
+      'state' => '神奈川県',
+      'city' => '伊勢原市',
+      'lastname' => '清水　宏之',
+      'birthyear' => '1973',
+      'mobilephone' => '09015466866',
+      'email' => 'heroshimizu@yahoo.co.jp',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 20:41:31
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスyoi (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスyoichi.tsuzaki00@gmail.compは無効です\\",\\"error\\":\\"INVALID_EMAIL\\",\\"name\\":\\"email\\"}]","correlationId":"8fffdc9f-6ed4-4023-bb14-65a604699038","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Tue, 12 Dec 2023 11:41:31 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '297',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8345b2dbdcd029e6-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '56',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-6ffdd984b9-bmbqn',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '8fffdc9f-6ed4-4023-bb14-65a604699038',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499976',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '8fffdc9f-6ed4-4023-bb14-65a604699038',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B8866E7033F2156CA9AF0F2590782EE6EA82C577C000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=RAXeUdc3vpcc4s6kpHXF%2F9h9VqGFVVpRCIKiWEBv87fKJ6PTFYcysSjHJA1fu4TuUlLtfn0bB9EOM7VAQ7RD%2BZ4gffDkw%2BQGeTq4YNNJhc2JfC96q8O%2BFEKliiEXFoH9"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Eメールアドレスyoichi.tsuzaki00@gmail.compは無効です","error":"INVALID_EMAIL","name":"email"}]',
+          'correlation_id' => '8fffdc9f-6ed4-4023-bb14-65a604699038',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスyoi (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_cpa',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '0022089',
+                  'state' => '北海道',
+                  'city' => '札幌市北区',
+                  'lastname' => '津崎洋一',
+                  'birthyear' => '1970',
+                  'mobilephone' => '07052888128',
+                  'email' => 'yoichi.tsuzaki00@gmail.comp',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 121,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_cpa',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '0022089',
+                  'state' => '北海道',
+                  'city' => '札幌市北区',
+                  'lastname' => '津崎洋一',
+                  'birthyear' => '1970',
+                  'mobilephone' => '07052888128',
+                  'email' => 'yoichi.tsuzaki00@gmail.comp',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 89,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_cpa',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '0022089',
+              'state' => '北海道',
+              'city' => '札幌市北区',
+              'lastname' => '津崎洋一',
+              'birthyear' => '1970',
+              'mobilephone' => '07052888128',
+              'email' => 'yoichi.tsuzaki00@gmail.comp',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/lp06/send.php',
+          'line' => 139,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_cpa',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '0022089',
+              'state' => '北海道',
+              'city' => '札幌市北区',
+              'lastname' => '津崎洋一',
+              'birthyear' => '1970',
+              'mobilephone' => '07052888128',
+              'email' => 'yoichi.tsuzaki00@gmail.comp',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-12 20:41:31
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスyoi (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスyoichi.tsuzaki00@gmail.compは無効です\\",\\"error\\":\\"INVALID_EMAIL\\",\\"name\\":\\"email\\"}]","correlationId":"8fffdc9f-6ed4-4023-bb14-65a604699038","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Tue, 12 Dec 2023 11:41:31 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '297',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8345b2dbdcd029e6-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '56',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-6ffdd984b9-bmbqn',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '8fffdc9f-6ed4-4023-bb14-65a604699038',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499976',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '8fffdc9f-6ed4-4023-bb14-65a604699038',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B8866E7033F2156CA9AF0F2590782EE6EA82C577C000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=RAXeUdc3vpcc4s6kpHXF%2F9h9VqGFVVpRCIKiWEBv87fKJ6PTFYcysSjHJA1fu4TuUlLtfn0bB9EOM7VAQ7RD%2BZ4gffDkw%2BQGeTq4YNNJhc2JfC96q8O%2BFEKliiEXFoH9"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Eメールアドレスyoichi.tsuzaki00@gmail.compは無効です","error":"INVALID_EMAIL","name":"email"}]',
+          'correlation_id' => '8fffdc9f-6ed4-4023-bb14-65a604699038',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Eメールアドレスyoi (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_cpa',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '0022089',
+                  'state' => '北海道',
+                  'city' => '札幌市北区',
+                  'lastname' => '津崎洋一',
+                  'birthyear' => '1970',
+                  'mobilephone' => '07052888128',
+                  'email' => 'yoichi.tsuzaki00@gmail.comp',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 121,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'motivation' => '近いうちに転職したい',
+                  'employment_status' => '離職中(退職確定済/未就職)',
+                  'skill' => 'skill_cpa',
+                  'start_date_' => '3ヶ月以内',
+                  'experience' => '7年以上',
+                  'zip' => '0022089',
+                  'state' => '北海道',
+                  'city' => '札幌市北区',
+                  'lastname' => '津崎洋一',
+                  'birthyear' => '1970',
+                  'mobilephone' => '07052888128',
+                  'email' => 'yoichi.tsuzaki00@gmail.comp',
+                  'channel' => '',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/assets/HubSpot/HubSpot.php',
+          'line' => 89,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_cpa',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '0022089',
+              'state' => '北海道',
+              'city' => '札幌市北区',
+              'lastname' => '津崎洋一',
+              'birthyear' => '1970',
+              'mobilephone' => '07052888128',
+              'email' => 'yoichi.tsuzaki00@gmail.comp',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/home/r1687141/public_html/mitsukaru-kaikeitensyoku-lp.jp/lp06/send.php',
+          'line' => 139,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'motivation' => '近いうちに転職したい',
+              'employment_status' => '離職中(退職確定済/未就職)',
+              'skill' => 'skill_cpa',
+              'start_date_' => '3ヶ月以内',
+              'experience' => '7年以上',
+              'zip' => '0022089',
+              'state' => '北海道',
+              'city' => '札幌市北区',
+              'lastname' => '津崎洋一',
+              'birthyear' => '1970',
+              'mobilephone' => '07052888128',
+              'email' => 'yoichi.tsuzaki00@gmail.comp',
+              'channel' => '',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-12 22:02:49
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '762351',
+        'msg' => '[success]コンタクト登録: 762351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => '良い転職先があれば辞めたい',
+      'skill' => 'skill_zeirishi',
+      'start_date_' => '6ヶ月以内',
+      'experience' => '未経験（経理経験あり）',
+      'zip' => '9850863',
+      'state' => '宮城県',
+      'city' => '多賀城市',
+      'lastname' => '名取 友希',
+      'birthyear' => '1992',
+      'mobilephone' => '08016941998',
+      'email' => 'yuuki_napori@yahoo.co.jp',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)
+[export_log] 2023-12-12 22:46:51
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '762651',
+        'msg' => '[success]コンタクト登録: 762651',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'motivation' => '近いうちに転職したい',
+      'employment_status' => 'すぐに辞めたい',
+      'skill' => 'skill_bokinikyu',
+      'start_date_' => '1ヶ月以内',
+      'experience' => '1年～3年',
+      'zip' => '6711211',
+      'state' => '兵庫県',
+      'city' => '姫路市',
+      'lastname' => '木山宏正',
+      'birthyear' => '1977',
+      'mobilephone' => '09088207547',
+      'email' => 'kiyaten05@gmail.com',
+      'channel' => '',
+      'leadsource' => 'leadsource_inquiry',
+    ),
+  ),
+)

@@ -1,0 +1,202 @@
+.entry_header{
+    padding: 10px 15px 15px
+}
+
+.entry_header .tag_box{
+    margin: 10px auto;
+}
+
+.entry_header .tag a{
+    font-size: 13px;
+}
+
+.entry_header .category_box a {
+    font-size: 1rem;
+}
+
+.entry_header .title_box h1{
+    font-size: 20px;
+
+}
+
+.entry_header .date_box{
+    font-size: 12px;
+}
+
+.content_area{
+    padding: 0;
+}
+
+.entry_content{
+    padding: 10px;
+}
+
+.content_area main{
+    width: 100%;
+}
+
+.content_area .voice_left{
+    align-items: flex-start;
+}
+
+.voice_left .voice_balloon{
+    font-size: 13px;
+}
+
+.detail_area{
+    padding: 15px;
+    border: #eee 2px solid;
+}
+
+.detail_area h3{
+    background-color: #eee;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.13rem;
+    line-height: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+
+.detail_area .point_flex{
+    display: block;
+}
+
+.detail_area .point_flex > a{
+    display: block;
+    text-align: center;
+}
+
+.detail_area .point_list{
+    margin-left: 0;
+}
+
+.detail_area .point_list p{
+    font-size: 16px;
+    border-left: #fff102 5px solid;
+    padding-left: 12px;
+    margin-top: 10px;
+}
+
+.detail_area .point_list li{
+    font-size: 13px;
+    background: url(../images/icon_point.svg) left top no-repeat;
+    padding: 0.3em 0 1em 35px;
+}
+
+.detail_area .btn_flex{
+    display: block;
+}
+
+.detail_area .btn_flex a{
+    margin: auto;
+}
+
+.table_contents{
+    margin: 30px auto;
+}
+
+.sec01_frame2 dt{
+    padding: 4px 0 7px 28px;
+    font-weight: bold;
+    background: url(//daini2.co.jp/wp/wp-content/themes/daini2/images/common/bg_dt03.svg) 0 4px no-repeat;
+    background-size: 25px;
+}
+
+.sec01_frame2 dd{
+    padding: 0 0 12px 53px;
+    font-size: 13px;
+}
+
+.relation{
+    width: 100%;
+    padding-top: 30px;
+}
+
+.relation h3{
+    width: auto;
+}
+
+.relation ul{
+    display: block;
+    width: auto;
+}
+
+.relation ul li{
+    width: 100%;
+}
+
+.relation ul li .flex_text p{
+    line-height: 16px;
+}
+
+.flex_text{
+    width: calc(100% - 160px);
+}
+
+#article_text .link_btn{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: #ffffff30;
+    z-index: 10;
+    padding: 15px 30px 15px;
+}
+
+#article_text .link_btn a{
+    width: 100%;
+    font-size: 16px;
+    line-height: 1.3;
+}
+
+/*記事ページ内のプロフィール（記事リストにも使用）*/
+.content_area .profile_area {
+    padding: 14px;
+    font-size: 13px;
+}
+
+.content_area .profile_area .profile_wrap .profile_right .profile_title {
+    font-size: 15px;
+    width: 110px;
+    line-height: 1.9em;
+}
+
+.content_area .profile_area .profile_wrap .profile_right .profile_name {
+    font-size: 16px;
+}
+
+.content_area .profile_area .profile_wrap .profile_left .profile_icon {
+    width: 80px;
+    height: 80px;
+}
+
+.content_area .profile_area .link_wrap .link .arrow::before {
+    width: 9px;
+    height: 9px;
+    left: 6px;
+    top: 5px;
+}
+
+/*記事リストのプロフィール*/
+#list_writer_area .profile_area .profile_wrap .profile_right .profile_name {
+    font-size: 15px;
+}
+
+#list_writer_area .introduction_wrap .introduction_title {
+    font-size: 15px;
+}
+
+#list_writer_area .profile_area .profile_wrap .profile_right .profile_company {
+    line-height: 1em;
+    margin-bottom: 5px;
+    font-size: 13px;
+}
+
+#list_writer_area .profile_area .link_wrap .link .link_text {
+    font-size: 13px;
+}
+
+#article_wrap_title {
+    font-size: 18px;
+}

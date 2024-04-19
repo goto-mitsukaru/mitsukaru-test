@@ -1,0 +1,63 @@
+
+[export_log] 2024-01-19 09:28:14
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '199901',
+        'msg' => '[success]コンタクト登録: 199901',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '群馬県',
+      'vvzz3' => '5年〜7年',
+      'n224135' => '600～700万未満',
+      'lastname' => '三澤',
+      'firstname' => '理恵子',
+      'email' => 'jaguar_chopin@yahoo.co.jp',
+      'phone' => '09088528223',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-19 10:45:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '6076',
+        'msg' => '[success]コンタクト更新成功: 6076',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '神奈川県',
+      'vvzz3' => '5年〜7年',
+      'n224135' => '400万未満',
+      'lastname' => '竹内',
+      'firstname' => '僚',
+      'email' => 'supper7450@ezweb.ne.jp',
+      'phone' => '08052475587',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

@@ -1,0 +1,121 @@
+
+[export_log] 2023-12-20 04:05:18
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '135751',
+        'msg' => '[success]コンタクト登録: 135751',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '青柳',
+      'firstname' => '拓',
+      'vvzz3' => '1年未満',
+      'state' => '北海道',
+      'email' => 'taku.aoyagi.1@gmail.com',
+      'phone' => '08012411432',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-20 04:10:35
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '135801',
+        'msg' => '[success]コンタクト登録: 135801',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '20代後半',
+      'state' => '北海道',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '400万未満',
+      'lastname' => '青柳',
+      'firstname' => '拓',
+      'email' => 'takt.aoyagi.1@gmail.com',
+      'phone' => '08012411432',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-20 21:16:56
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '139001',
+        'msg' => '[success]コンタクト登録: 139001',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '相葉',
+      'firstname' => '奈緒',
+      'vvzz3' => '1～3年',
+      'state' => '北海道',
+      'email' => 'ktrn1037@gmail.com',
+      'phone' => '08016143064',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-20 21:21:11
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '139001',
+        'msg' => '[success]コンタクト更新成功: 139001',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '20代後半',
+      'state' => '北海道',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '400～500万未満',
+      'lastname' => '相葉',
+      'firstname' => '奈緒',
+      'email' => 'ktrn1037@gmail.com',
+      'phone' => '08016143064',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

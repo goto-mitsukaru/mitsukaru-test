@@ -1,0 +1,1641 @@
+@charset "utf-8";
+
+
+/* PARTS
+----------------------------------------------------------- */
+.spOnly {
+    display: none;
+}
+
+.mt0 {
+    margin-top: 0px !important;
+}
+
+.mt20 {
+    margin-top: 20px !important;
+}
+
+.mt40 {
+    margin-top: 40px !important;
+}
+
+.mt60 {
+    margin-top: 60px !important;
+}
+
+.access {
+    z-index: 100;
+}
+
+.resultJobCate {
+    display: inline-block;
+    padding: 0 12px;
+    height: 22px;
+    background: #fd7f23;
+    line-height: 22px;
+    color: #fff;
+}
+
+/*btn*/
+.btnBlue,
+.btnOrange {
+    position: relative;
+    display: inline-block;
+    width: 330px;
+    margin: 0 6px;
+    vertical-align: bottom;
+}
+
+.btnBlue a,
+.btnOrange a,
+.btnBlue input,
+.btnOrange input {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: none;
+    border: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-weight: bold;
+    font-size: 18px;
+    z-index: 2;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+.btnOrange {
+    display: block;
+    width: 330px;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    line-height: 2;
+    padding: 0.4em 0;
+    font-weight: bold;
+    box-shadow: 0 3px 4px 0 #ccc;
+    background: #F77809;
+    border-radius: 30px;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b9ad1', endColorstr='#0877b2',GradientType=0 );
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    margin: auto;
+}
+
+.btnBlue::before,
+.btnOrange::before {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 50px;
+    color: #fff;
+    z-index: 1;
+}
+
+.btnBlue::before {
+    background: #238fc9;
+    border-bottom: 3px solid #0e5f8b;
+}
+
+.btnBlue:hover::before,
+.btnOrange:hover::before {
+    border-bottom: none;
+}
+
+.btnBlue:hover a,
+.btnBlue:hover input,
+.btnOrange:hover input {
+    padding-top: 3px;
+    text-decoration: none;
+    border-bottom: none;
+}
+
+
+.btnLight {
+    position: relative;
+    display: inline-block;
+    width: 135px;
+    margin: 0 6px;
+    vertical-align: bottom;
+}
+
+.btnBlue + .btnLight {
+    margin-left: 14px;
+}
+
+.btnLight a,
+.btnLight input {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 43px;
+    line-height: 42px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: none;
+    border: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font-weight: bold;
+    font-size: 14px;
+    z-index: 2;
+    vertical-align: top;
+    text-decoration: none;
+    cursor: pointer;
+    color: #666;
+}
+
+.btnLight::before {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    background: #d8d8d8;
+    border-bottom: 3px solid #aeaeae;
+    color: #fff;
+    z-index: 1;
+}
+
+.btnLight:hover::before {
+    border-bottom: none;
+}
+
+.btnLight:hover a,
+.btnLight:hover input {
+    padding-top: 3px;
+    text-decoration: none;
+    border-bottom: none;
+}
+
+
+.icnBtnArwR a::after {
+    position: absolute;
+    top: 20px;
+    right: 15px;
+    content: url(/images/search/icn_btnArw.png);
+    line-height: 0;
+    font-size: 0;
+}
+
+.icnBtnArwR a:hover::after {
+    top: 22px;
+}
+
+
+/*customCheck*/
+.customCheck {
+    display: inline-block;
+    position: relative;
+    top: -2px;
+    width: 17px;
+    height: 17px;
+    margin-right: 12px;
+    border-radius: 2px;
+    vertical-align: middle;
+
+}
+
+.customCheck::after {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 1px;
+    font-size: 0;
+}
+
+.customCheck input {
+    margin: 0;
+    width: 17px;
+    height: 17px;
+    line-height: 0;
+    font-size: 0;
+    vertical-align: top;
+}
+
+@media \0screen {
+    .customCheck {
+        border: none;
+    }
+
+    .customCheck input {
+        -ms-filter: "alpha(opacity=100)";
+    }
+
+    .btnOrange {
+        background: #f70;
+    }
+
+    .btnBlue {
+        background: #238fc9;
+        border-bottom: 3px solid #0e5f8b;
+    }
+
+    .btnLight {
+        background: #d8d8d8;
+        border-bottom: 3px solid #aeaeae;
+    }
+}
+
+/*customSelect*/
+.customSelect {
+    display: inline-block;
+    position: relative;
+    width: 190px;
+    border-radius: 3px;
+    border: 2px solid #b3b3b3;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.customSelect::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: '';
+    display: block;
+    width: 28px;
+    height: 26px;
+    background: #00b3b3;
+    z-index: 1;
+}
+
+.customSelect::after {
+    display: block;
+    position: absolute;
+    top: 3px;
+    right: 6px;
+    content: url(/images/search/icn_customSelect.png);
+    z-index: 2;
+}
+
+.customSelect select {
+    position: relative;
+    width: 230px;
+    height: 26px;
+    margin: 0;
+    padding: 0 48px 0 15px;
+    border-radius: 0;
+    border: 0;
+    background: none transparent;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    text-indent: .01px;
+    text-overflow: "";
+    font-size: 14px;
+    z-index: 3;
+}
+
+.customSelect select::-ms-expand {
+    display: none;
+}
+
+@media \0screen {
+    .customSelect {
+        border: none;
+    }
+
+    .customSelect::before,
+    .customSelect::after {
+        display: none;
+    }
+
+    .customSelect select {
+        border: 1px solid #999;
+        padding-right: 0;
+        width: 190px;
+    }
+}
+
+:root .customSelect {
+    border: none \0;
+}
+
+:root .customSelect::before,
+:root .customSelect::after {
+    display: none \0;
+}
+
+:root .customSelect select {
+    border: 1px solid #999 \0;
+    padding-right: 0 \0;
+    width: 190px \0;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    :root .customSelect {
+        border: 2px solid #b3b3b3;
+    }
+
+    :root .customSelect::before,
+    :root .customSelect::after {
+        display: block;
+    }
+
+    :root .customSelect select {
+        border: none;
+        padding-right: 48px;
+        width: 230px;
+    }
+}
+
+/* PARGE
+----------------------------------------------------------- */
+.searchCont {
+    margin: 35px auto 0;
+    width: 960px;
+    color: #333;
+}
+
+.searchResultPanel {
+    position: relative;
+    border: 1px solid #c6c6c6;
+}
+
+.searchResultPanel::before {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url(/images/search/bg_searchResultPanel.png) 0 0 repeat;
+    z-index: 1;
+}
+
+.searchResultPanelIn {
+    position: relative;
+    padding-bottom: 30px;
+    background: #fff;
+    z-index: 2;
+}
+
+
+/* resultJobHead */
+.resultJobHead {
+    margin: -1px 0 0;
+    background: #FFF7E8;
+    border-top: 5px solid #fd7f23;
+    padding: 20px 38px 25px;
+}
+
+.resultJobHead .resultJobShoulder {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.resultJobHead .resultJobCate {
+    float: left;
+}
+
+.resultJobHead .resultJobNo {
+    float: right;
+    line-height: 22px;
+    color: #999;
+}
+
+.resultJobHead .resultJobTit {
+    line-height: 1.3;
+    font-weight: bold;
+    font-size: 22px;
+    color: #000;
+}
+
+.resultJobHead .resultJobTit .h1_small {
+    display: block;
+    font-size: 14px;
+    margin-top: 15px;
+    color: #666;
+}
+
+.resultJobHead .resultJobTit a {
+    color: #d9217d !important;
+    text-decoration: none !important;
+}
+
+.resultJobHead .resultJobTit a:hover {
+    text-decoration: underline !important;
+}
+
+.resultJobHead .resultJobCompany, .resultJobHead .resultJobAddress, .resultJobHead .resultJobStation {
+    overflow: hidden;
+    margin-top: 15px;
+    color: #666;
+}
+
+.resultJobHead dt {
+    float: left;
+    font-weight: bold;
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+.resultJobHead dd {
+    margin-left: 210px;
+    line-height: 1.8;
+    font-weight: bold;
+}
+
+.resultJobHead .resultJobAddress dt, .resultJobHead .resultJobStation dt {
+    background: #fff;
+    font-size: 12px;
+    padding: 5px 10px;
+    color: #000000de;
+    border-radius: 3px;
+    border: 1px solid #00000070;
+}
+
+.resultJobHead .resultJobAddress dd, .resultJobHead .resultJobStation dd {
+    margin-left: 80px;
+    line-height: 22px;
+    margin-top: 5px;
+}
+
+ul.resultJobFeature {
+    margin-top: 10px;
+}
+
+ul.resultJobFeature li {
+    background: #6a8cc7;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+    color: #fff;
+}
+
+/*resultJobSummary*/
+.resultJobSummary {
+    margin: 30px 38px 0;
+}
+
+.resultJobSummary table {
+    width: 100%;
+    border-top: 1px solid #d9d9d9;
+}
+
+.resultJobSummary .movie_wrap{
+    margin-top: 30px;
+    width: 320px;
+}
+
+.resultJobSummary .movie_wrap .movie_frame{
+    width: 300px;
+    margin-left: 10px;
+    height: calc(300px * 2 / 3);
+}
+
+.resultJobSummary .movie_wrap p{
+    padding: 6px 0 0 0;
+    line-height: 1.4;
+    font-weight: bold;
+}
+
+.resultJobSummary tbody {
+}
+
+.resultJobSummary tr {
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.resultJobSummary th,
+.resultJobSummary td {
+    padding-top: 7px;
+    padding-bottom: 6px;
+    font-size: 14px;
+}
+
+.resultJobSummary th {
+    width: 110px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+    background: #f7f7f7;
+    font-weight: bold;
+}
+
+.resultJobSummary th .icnQualMini,
+.resultJobSummary th .icnJobCateMini,
+.resultJobSummary th .icnIncomeMini,
+.resultJobSummary th .icnLocationMini {
+    display: none;
+}
+
+.resultJobSummary td {
+    padding-left: 42px;
+    padding-right: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.resultJobSummary td.profile {
+    white-space: pre-wrap;
+}
+
+.resultJobSummary td p {
+    margin-right: 10px;
+}
+
+/*resulJobDetailBlock*/
+.resulJobDetailBlock {
+    margin: 30px 38px 0;
+
+}
+
+.resultJobDetail {
+    padding: 0 0 30px;
+}
+
+.resultJobDetail + .resultJobDetail {
+    margin-top: 10px;
+}
+
+.resultJobDetail .jobDetailTit {
+    display: block;
+    position: relative;
+    padding: 9px 0 9px;
+    background: #24354e;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+}
+
+.resultJobDetail .jobDetailTit::before {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    content: '';
+    width: 100%;
+    height: 3px;
+    background: url(/images/search/bg_jobDetailTit.png) 0 0 repeat;
+}
+
+.resultJobDetail .jobDetailTit::after {
+    position: absolute;
+    top: 70%;
+    left: 50.5%;
+    margin-left: -19px;
+    content: '';
+    width: 27px;
+    height: 27px;
+    background: #24354e;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+
+.resultJobDetail p {
+    padding: 26px 20px 0;
+    font-size: 14px;
+    white-space: pre-wrap;
+}
+
+
+.resultJobBtn {
+    padding: 22px 20px;
+    margin: 0 38px;
+    background: #FFF7E8;
+    text-align: center;
+}
+
+
+/*searchResultInfo*/
+.searchResultInfo {
+    margin-top: 37px;
+}
+
+.searchResultInfo .resultInfoTit {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.searchResultInfo .resultInfoTit::before {
+    display: inline-block;
+    content: '';
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+    background: #fd7f23;
+}
+
+.searchResultInfo .resultInfoTitBody {
+    margin-top: 15px;
+}
+
+.searchResultInfo table {
+    width: 100%;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.searchResultInfo th {
+    width: 120px;
+    padding: 26px 20px;
+    background: #f7f7f7;
+    border-top: 1px solid #d9d9d9;
+    text-align: left;
+    vertical-align: top;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.searchResultInfo td {
+    padding: 26px 40px;
+    background: #fff;
+    border-top: 1px solid #d9d9d9;
+    font-size: 14px;
+}
+
+.searchResultInfo td.profile {
+    white-space: pre-line;
+}
+
+
+.searchResultNum {
+    margin-top: 28px;
+}
+
+.searchResultNum p {
+    display: inline-block;
+    font-size: 14px;
+    color: #666;
+}
+
+.searchResultNum b {
+    margin-right: 3px;
+    font-weight: bold;
+    font-size: 17px;
+    color: #d9217d;
+}
+
+.searchResultNum a {
+    position: relative;
+    padding-left: 10px;
+    display: inline-block;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 12px;
+    color: #d9217d;
+}
+
+.searchResultNum a::before {
+    position: absolute;
+    top: 9px;
+    left: 0;
+    display: inline-block;
+    content: '';
+    border: 3px solid transparent;
+    border-left: 4px solid #d9217d;
+}
+
+.searchResultNum a:hover {
+    color: #fe61b0;
+}
+
+.searchResultNum a:hover::before {
+    border-left: 4px solid #fe61b0;
+}
+
+.searchResultList {
+    margin-top: 10px;
+}
+
+.searchResultList .searchResultPanel {
+    margin-top: 0;
+}
+
+.searchResultList .searchResultPanel + .searchResultPanel {
+    margin-top: 47px;
+}
+
+.searchResultList .searchResultPanel .resultJobHead {
+    padding-bottom: 15px;
+}
+
+.searchResultList .searchResultPanel .resultJobSummary {
+    margin-top: 18px;
+}
+
+.searchResultList .searchResultPanel .resultJobSummary td {
+    padding-left: 20px;
+}
+
+.searchResultList .searchResultPanel .resultJobBtn {
+    margin-top: 20px;
+}
+
+/*searchFeature*/
+.searchFeature {
+
+}
+
+.searchFeatureTit {
+    display: block;
+    position: relative;
+    padding: 14px 40px 6px;
+    background: #00b3b3;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+}
+
+.searchFeatureTit::after {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: #fff;
+}
+
+.searchFeaturePanel {
+    margin-top: 12px;
+    background: #fff;
+    padding: 5px;
+}
+
+.searchFeaturePanel .featurePanelTit {
+    padding: 3px 35px 2px;
+    background: #f6f6f6;
+    border-top: solid 2px #00b3b3;
+    font-weight: bold;
+    font-size: 13px;
+    color: #70563f;
+}
+
+.searchFeaturePanel .featurePanelTit a {
+    position: relative;
+    display: inline-block;
+    margin-left: 28px;
+    padding-left: 9px;
+    font-weight: bold;
+    font-size: 10px;
+    color: #1262b2;
+}
+
+.searchFeaturePanel .featurePanelTit a::before {
+    position: absolute;
+    top: 8px;
+    left: 0;
+    display: inline-block;
+    content: '';
+    border: 3px solid transparent;
+    border-left: 4px solid #1262b2;
+}
+
+.searchFeaturePanel .featurePanelTit a:hover {
+    color: #24aef2;
+}
+
+.searchFeaturePanel .featurePanelTit a:hover::before {
+    border-left: 4px solid #24aef2;
+}
+
+
+/*featureFormSet*/
+.featureFormSet {
+    overflow: hidden;
+    padding: 10px 35px;
+}
+
+.featureFormSet table {
+    width: 50%;
+    float: left;
+    border-right: 1px solid #d9d9d9;
+    line-height: 1.6;
+}
+
+.featureFormSet th {
+    padding: 7px 0 2px 0;
+    width: 90px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 11px;
+    vertical-align: top;
+}
+
+.featureFormSet td {
+    padding: 6px 15px 5px 0;
+    font-size: 11px;
+}
+
+.featureFormSet table + table {
+    border-right: none;
+}
+
+.featureFormSet table + table th {
+    padding-left: 20px;
+}
+
+.featureFormSet table + table td {
+    padding-right: 0;
+}
+
+
+/* searchFormPanel */
+.searchFormPanel {
+    margin-top: 58px;
+    padding: 5px;
+    background: #fff;
+}
+
+.searchFormPanel + .searchFormPanel {
+    margin-top: 17px;
+}
+
+.searchFormPanel .searchFormTit {
+    padding: 12px 35px;
+    background: #f6f6f6;
+    border-top: solid 2px #00b3b3;
+    font-weight: bold;
+    font-size: 18px;
+    color: #70563f;
+}
+
+
+.searchFormSet,
+.searchSimilarSet {
+    margin: 0 15px;
+}
+
+.searchFormSet table,
+.searchSimilarSet table {
+    width: 100%;
+}
+
+.searchFormSet th,
+.searchSimilarSet th {
+    padding: 16px 20px 1px 10px;
+    width: 130px;
+    border-bottom: 1px solid #d9d9d9;
+    text-align: left;
+    font-weight: bold;
+    font-size: 14px;
+    vertical-align: top;
+}
+
+.searchFormSet td,
+.searchSimilarSet td {
+    padding: 16px 20px 15px 0;
+    border-bottom: 1px solid #d9d9d9;
+    vertical-align: top;
+    font-size: 14px;
+}
+
+.searchFormSet tr:last-child th,
+.searchFormSet tr:last-child td,
+.searchSimilarSet tr:last-child th,
+.searchSimilarSet tr:last-child td {
+    border-bottom: none;
+}
+
+.searchFormSet td .customSelect {
+    margin: -10px 8px -8px 0;
+}
+
+/**/
+.searchFormPanel {
+    margin-top: 40px;
+}
+
+.searchFormPanel .searchFormSet {
+    padding-top: 8px;
+}
+
+.searchFormPanel th {
+    width: 150px;
+}
+
+/**/
+.searchFormLink {
+    overflow: hidden;
+    margin: 0 -15px 0 0;
+}
+
+.searchFormLink li {
+    float: left;
+    margin: 0 15px 0 0;
+}
+
+.searchFormLink li a {
+    text-decoration: none !important;
+    color: #1262b2 !important;
+}
+
+.searchFormLink li a:hover {
+    text-decoration: underline !important;
+    color: #1262b2 !important;
+}
+
+.searchFormCheck {
+    overflow: hidden;
+    margin: -6px -30px -2px 0;
+}
+
+.searchFormCheck li {
+    float: left;
+    margin: 6px 30px 0 0;
+}
+
+
+.searchCont .icnQual,
+.searchCont .icnJobCate,
+.searchCont .icnIncome,
+.searchCont .icnLocation {
+    position: relative;
+    top: -7px;
+    display: inline-block;
+    width: 38px;
+    height: 36px;
+    margin-right: 5px;
+    background: url(/images/search/sprite_001.png) 0 0 no-repeat;
+    vertical-align: top;
+}
+
+.searchCont .icnQual {
+    background-position: 0 0;
+}
+
+.searchCont .icnJobCate {
+    background-position: -38px 0;
+}
+
+.searchCont .icnIncome {
+    background-position: -76px 0;
+}
+
+.searchCont .icnLocation {
+    background-position: -114px 0;
+}
+
+.searchCont .icnQualMini,
+.searchCont .icnJobCateMini,
+.searchCont .icnIncomeMini,
+.searchCont .icnLocationMini {
+    position: relative;
+    top: -2px;
+    display: inline-block;
+    width: 21px;
+    height: 20px;
+    margin-right: 12px;
+    background: url(/images/search/sprite_001.png) 0 0 no-repeat;
+    vertical-align: top;
+}
+
+.searchCont .icnQualMini {
+    background-position: 0 -36px;
+}
+
+.searchCont .icnJobCateMini {
+    background-position: -21px -36px;
+}
+
+.searchCont .icnIncomeMini {
+    background-position: -42px -36px;
+}
+
+.searchCont .icnLocationMini {
+    background-position: -63px -36px;
+}
+
+
+/* searchFormLocat */
+.searchFormLocat {
+    display: table;
+    margin: 0 0 3px;
+}
+
+.searchFormLocat > li {
+    width: 180px;
+    display: table-cell;
+    padding-left: 15px;
+    padding-top: 2px;
+    border-left: 1px dotted #d9d9d9;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.searchFormLocat > li:first-child {
+    padding-left: 0;
+    border-left: none;
+}
+
+.searchFormLocat > li p {
+    margin-bottom: 7px;
+}
+
+.searchFormLocat > li p + p {
+    margin-top: 12px;
+}
+
+.searchFormLocat > li ul {
+    padding-left: 28px;
+}
+
+.searchFormLocat > li ul li {
+    margin-bottom: 8px;
+}
+
+.searchFormLocat > li ul li:last-child {
+    margin-bottom: 0;
+}
+
+
+/**/
+.searchFormRecom {
+    overflow: hidden;
+    margin-top: -6px;
+    padding: 18px 25px 18px 35px;
+}
+
+.searchFormRecom li {
+    float: left;
+    margin-right: 10px;
+    margin-top: 6px;
+}
+
+.searchFormRecom a {
+    display: inline-block;
+    padding: 0 35px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    border: 1px solid #1262b2;
+    color: #1262b2;
+    font-size: 14px;
+}
+
+.searchFormRecom a:hover {
+    color: #24aef2;
+    border-color: #24aef2;
+}
+
+/**/
+.searchFormSubmit {
+    padding: 26px 0 30px;
+    border-top: 1px solid #d9d9d9;
+    text-align: center;
+}
+
+
+/*paging*/
+.paging {
+    margin-top: 28px;
+}
+
+.paging ul {
+    letter-spacing: -0.3em;
+    text-align: center;
+}
+
+.paging li {
+    display: inline-block;
+    margin: 0 2px 0 3px;
+    letter-spacing: normal;
+    vertical-align: middle;
+}
+
+.paging li a {
+    display: block;
+    padding: 0 8px;
+    min-width: 15px;
+    height: 31px;
+    line-height: 31px;
+    background: #00b3b3;
+    border: 2px solid #00b3b3;
+    border-radius: 8px;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+}
+
+.paging li.pagingPrev a,
+.paging li.pagingNext a {
+    padding: 0 12px;
+}
+
+.paging li a:hover {
+    background: #3cd9d9;
+    border-color: #3cd9d9;
+}
+
+.paging li span {
+    float: left;
+    margin: 0 5px;
+}
+
+.paging li b .current {
+    background: #fff;
+    border: 2px solid #b3b3b3;
+    text-decoration: none;
+    color: #666;
+    display: block;
+    padding: 0 8px;
+    min-width: 15px;
+    height: 31px;
+    line-height: 31px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.paging li a.isAct {
+    background: #fff;
+    border: 2px solid #b3b3b3;
+    text-decoration: none;
+    color: #666;
+}
+
+/*searchPrivateJob*/
+.searchPrivateJob {
+    margin-top: 45px;
+    background: #f8f8f8 url(/images/search/bg_searchPrivateJob.jpg) 0 0 no-repeat;
+    border: 5px solid #fff;
+}
+
+.searchPrivateJob .privateJobTit {
+    padding: 28px 0 0;
+    text-align: center;
+}
+
+.searchPrivateJob .privateJobAbout {
+    margin: 7px auto 0;
+    padding: 10px 0;
+    width: 798px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    background: #fff;
+    background: rgba(255, 255, 255, .6);
+}
+
+.searchPrivateJob .privateJobAbout dl {
+    display: table;
+    width: 100%;
+}
+
+.searchPrivateJob .privateJobAbout dt {
+    display: table-cell;
+    width: 109px;
+    border-right: 1px solid #bea9b3;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 13px;
+    color: #d9217d;
+}
+
+.searchPrivateJob .privateJobAbout dd {
+    padding: 2px 30px 1px 25px;
+    line-height: 1.5;
+    font-size: 13px;
+}
+
+.searchPrivateJob .privateJobAbout dd b {
+    font-size: 14px;
+    color: #1262b2;
+}
+
+.searchPrivateJob .privateJobAbout dd a {
+    position: relative;
+    padding-left: 8px;
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    color: #d9217d;
+}
+
+.searchPrivateJob .privateJobAbout dd a::before {
+    position: absolute;
+    top: 7px;
+    left: 0;
+    display: inline-block;
+    content: '';
+    border: 3px solid transparent;
+    border-left: 4px solid #d9217d;
+}
+
+.searchPrivateJob .privateJobAbout dd a:hover {
+    color: #fe61b0;
+}
+
+.searchPrivateJob .privateJobAbout dd a:hover::before {
+    border-left: 4px solid #fe61b0;
+}
+
+.searchPrivateJob .privateJobEx {
+    margin: 15px 35px 0;
+}
+
+.searchPrivateJob .privateJobEx p {
+    padding: 5px 0 4px;
+    background: #00b3b3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+}
+
+.searchPrivateJob .privateJobEx img {
+}
+
+.searchPrivateJob .privateJobNote {
+    margin: 10px 35px 20px;
+}
+
+.searchPrivateJob .privateJobNote li {
+    line-height: 1.6;
+    font-size: 12px;
+}
+
+.searchPrivateJob .privateJobBtn {
+    padding: 15px 25px;
+    background: #e7f0f7;
+    text-align: center;
+}
+
+.searchPrivateJob .privateJobBtn .btnOrange a {
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+
+.joblistIn {
+    overflow: hidden;
+    margin: 15px 0;
+}
+
+.same_corp_jobList, .same_license_jobList, .same_job_jobList, .same_area_jobList {
+    margin-top: 5px;
+    padding: 15px;
+    background: #fff;
+    float: left;
+    width: 930px;
+    margin-bottom: 15px;
+}
+
+.same_corp_jobList_cap, .same_license_jobList_cap, .same_job_jobList_cap, .same_area_jobList_cap {
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #00b3b3;
+}
+
+.same_corp_jobList_cap:before, .same_license_jobList_cap:before, .same_job_jobList_cap:before, .same_area_jobList_cap:before {
+    display: inline-block;
+    content: '';
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+    background: #00b3b3;
+}
+
+.same_corp_jobListIn {
+    overflow: hidden;
+    display: block;
+    color: #1262b2;
+}
+
+
+.same_corp_jobList .jobList_box li, .same_license_jobList .jobList_box li, .same_job_jobList .jobList_box li, .same_area_jobList .jobList_box li {
+    border-bottom: 1px solid #ddd;
+    position: relative;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.same_corp_jobList .jobList_box li:hover, .same_license_jobList .jobList_box li:hover, .same_job_jobList .jobList_box li:hover, .same_area_jobList .jobList_box li:hover {
+    background: #f2f2f2;
+}
+
+.same_corp_jobList .jobList_box li a, .same_license_jobList .jobList_box li a, .same_job_jobList .jobList_box li a, .same_area_jobList .jobList_box li a {
+    text-decoration: none;
+    display: block;
+    padding: 6px 15px 5px 30px;
+}
+
+.same_corp_jobListIn .same_corp_jobList_name {
+    font-size: 14px;
+    color: #082a4d;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.same_corp_jobListIn .same_corp_jobList_catch {
+    font-size: 14px;
+    color: #1262b2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+}
+
+.same_corp_jobListIn .same_corp_jobList_salary {
+    display: inline-block;
+    width: 400px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    vertical-align: top;
+    color: #082a4d;
+}
+
+
+.same_corp_jobListIn .same_corp_jobList_salary .annualItem {
+    background: #ff784d;
+    border-radius: 2px;
+    padding: 4px 4.5px 2px;
+    text-align: center;
+    font-size: 11px;
+    color: #fff;
+    display: inline-block;
+    line-height: 1.0;
+    margin-right: 5px;
+}
+
+
+.searchIncFrame {
+    margin-top: 0;
+    background: #fff;
+    padding: 15px;
+    color: #666;
+    line-height: 26px;
+    font-size: 13px;
+}
+
+.searchIncFrame span {
+    background: linear-gradient(transparent 75%, #ffd633 75%);
+    color: #d9217d;
+}
+
+
+.searchIncFrameLink a {
+    padding: 10px;
+    display: block;
+    background: #fff;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    position: relative;
+}
+
+.searchIncFrameLink a:after {
+    right: 15px;
+    position: absolute;
+    top: 50%;
+    content: '';
+    border: 5px solid transparent;
+    border-left: 7px solid #1280e0;
+    margin-top: -6px;
+}
+
+
+.holiday_banner {
+    margin: 30px auto;
+    width: 960px;
+}
+
+.holiday_banner a {
+    -webkit-transition: .2s ease-out;
+    -o-transition: .2s ease-out;
+    transition: .2s ease-out;
+}
+
+.holiday_banner a:hover {
+    opacity: 0.6;
+}
+
+.btnOrange:hover {
+    transform: translateY(2px);
+    box-shadow: 0 1px 0 0 #ccc;
+    text-decoration: none;
+}
+
+.movie_wrap{
+    width: 600px;
+    margin: 30px auto;
+}
+
+.movie_wrap iframe{
+    height: 400px;
+}
+
+.movie_wrap p{
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+.title_bold{
+    display: block;
+}
+
+@media screen and (max-width: 640px) {
+
+    .btnOrange {
+        width: 100%;
+    }
+
+    .resulJobDetailBlock {
+        margin: 30px 0 0;
+    }
+
+    .resultJobSummary td {
+        padding-left: 15px;
+        padding-right: 15px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .resultJobSummary {
+        margin: 30px 0 0;
+    }
+
+    .resultJobHead {
+        padding: 20px 20px 20px;
+    }
+
+    .resultJobBtn {
+        padding: 22px 20px;
+        margin: 0px 14px;
+        background: #FFF7E8;
+        text-align: center;
+    }
+
+    .searchResultInfo .resultInfoTit::before {
+        margin-left: 5px;
+    }
+
+    .searchResultInfo td {
+        padding: 26px 10px;
+    }
+
+    .movie_wrap{
+        width: 95vw;
+    }
+
+    .movie_wrap iframe{
+        height: 55vw;
+    }
+
+    .movie_wrap p{
+        line-height: 22px;
+        font-size: 14px;
+        font-weight: 700;
+        margin-top: 5px;
+    }
+}
+.p-resultJobHead-flex{
+    display:flex;
+    justify-content:flex-start;
+    align-items:flex-end;
+    position: relative;
+}
+@media screen and (max-width:768px){
+    .p-resultJobHead-flex {
+        display: block;
+        margin-top: 10px;
+    }
+}
+.p-result-box{
+    width: 100%;
+    max-width: 70%;
+}
+@media screen and (max-width:768px){
+    .p-result-box {
+        max-width: 100%;
+    }
+}
+.p-result-box__thumb--wrap{
+    width: 100%;
+    max-width: 30%;
+    padding-top: 30px;
+}
+@media screen and (max-width:768px){
+    .p-result-box__thumb--wrap {
+        max-width: 100%;
+        padding-top: 10px;
+    }
+}
+.p-result-box__thumb{
+    width: 100%;
+    height: auto;
+}
+.p-result-box__thumb.js-active-modal{
+    max-width:60vw;
+    margin: 0 auto;
+    padding-top: 0px;
+}
+.p-movie_frame {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 900px;
+    margin: 0 auto;
+    pointer-events: none;
+}
+@media screen and (max-width:768px){
+    .p-movie_frame {
+        pointer-events:all;
+    }
+}
+.js-active-modal .p-movie_frame{
+    pointer-events:all;
+}
+.p-movie_frame iframe{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+#p-modal-bg{
+    display: none;
+    position: fixed;
+    z-index: 1000000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100% ;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    height: 100vh;
+}
+#p-modal-bg.js-active{
+
+}
+.p-modal-bg__inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+        place-content: center;
+}
+.c-square-btn__wrap{
+    max-width: 64%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.c-square-btn{
+   margin-left: auto;
+    display: block;
+    position: relative;
+    width:50px;
+    height:50px;
+    border: 2px solid #333;
+    background: #fff;
+    cursor: pointer;
+}
+.c-square-btn::before,
+.c-square-btn::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 3px;
+    height: 40px;
+    background: #333;
+}
+.c-square-btn::before {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+.c-square-btn::after {
+    transform: translate(-50%, -50%) rotate(-45deg);
+}

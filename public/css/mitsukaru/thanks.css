@@ -1,0 +1,612 @@
+/*他の診断LPと違う箇所start*/
+body {
+    font-family: source-han-sans-japanese, sans-serif;
+    text-align: center;
+    letter-spacing: inherit;
+    font-size: 16px;
+}
+
+.sp{
+   display: none;
+}
+
+header {
+    position: static;
+    z-index: 0;
+    height: auto;
+}
+
+header .header_orange_wrap {
+    background-image: url(/images/lp/LOGINBACK.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vw;
+    max-height: 600px;
+    overflow: hidden;
+    position: relative;
+}
+
+header .header_top {
+    display: flex;
+    align-items: center;
+    margin-top: 1vw;
+}
+
+header .header_top img {
+    background-color: #ffffff;
+    width: 8vw;
+    border-radius: 38px;
+    padding: 0.3vw 0.7vw;
+    margin: 0 1vw;
+}
+
+header .logo_text {
+    font-family: "Yu Gothic UI", sans-serif;
+    font-size: 0.7vw;
+    font-weight: bold;
+    margin: auto 0;
+}
+
+.main_content .bottom_logo {
+    display: block;
+}
+
+header .sp_img{
+    display: none;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 100;
+    letter-spacing: 0.05em;
+    line-height: 22px;
+    padding: 15px 0;
+    position: relative;
+    text-align: left;
+}
+
+footer .footer_flex {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 7vw;
+}
+
+footer .footer_flex .company_profile {
+    width: 60%;
+}
+
+footer .footer_flex .company_profile ul li {
+    display: flex;
+}
+
+footer .footer_flex .company_profile ul li .title {
+    width: 18%;
+}
+
+footer .footer_flex .copyright {
+    margin-top: auto;
+}
+
+#tafsales {
+    position: absolute;
+    bottom: 0;
+}
+
+@media screen and (max-width: 960px){
+    .sp{
+        display: block;
+    }
+
+    header .logo_text {
+        font-size: 13px;
+    }
+
+    header .sp_img{
+        display: block;
+    }
+
+    footer {
+        font-size: 10px;
+        padding: 13% 0 6% 0;
+    }
+
+    footer .footer_flex {
+        margin: 0 6%;
+        display: block;
+    }
+
+    footer .footer_flex .company_profile {
+        width: 100%;
+    }
+
+    footer .footer_flex .company_profile ul li .title {
+        width: 20%;
+    }
+
+    footer .footer_flex .company_profile ul li .text {
+        flex: 1;
+    }
+
+    footer .footer_flex .copyright {
+        text-align: center;
+        margin-top: 10px;
+        transform: scale(0.7);
+        margin-right: 0;
+    }
+}
+
+
+/*他の診断LPと違う箇所end*/
+
+header .header_orange_wrap {
+    height: 30vh;
+}
+
+.main_content {
+    position: relative;
+    padding-top: 3%;
+}
+
+.main_content h1 {
+    font-size: 35px;
+    font-weight: 600;
+    padding: 1.2% 5%;
+    position: relative;
+    display: inline-block;
+    background-color: #FD7F23;
+    color: #ffffff;
+    width: 350px;
+    border-radius: 9px;
+    letter-spacing: 0.1em;
+}
+
+.main_content h1:before {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 4px;
+    background-color: #ffffff;
+    top: 52%;
+    left: 9%;
+    transform: rotate(0deg);
+}
+
+.main_content h1:after {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 4px;
+    background-color: #ffffff;
+    top: 52%;
+    right: 9%;
+    transform: rotate(0deg);
+}
+
+.main_content p {
+    line-height: 2em;
+}
+
+.main_content .text_01 {
+    padding-top: 3%;
+}
+
+.main_content .img_wrap{
+    text-align: right;
+}
+
+.main_content .img_wrap .img_right {
+    width: 300px;
+}
+
+/*footer {*/
+/*    height: 20vh;*/
+/*}*/
+
+.main_content .img_wrap .text_wrap{
+    text-align: right;
+}
+
+.main_content .img_wrap .point_text {
+    font-size: 14px;
+    text-align: center;
+    color: #24344d;
+    line-height: 1.8em;
+    width: 310px;
+    margin-left: auto;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 960px) {
+    body {
+        height: 100vh;
+    }
+
+    header {
+        height: auto;
+    }
+
+    header .header_orange_wrap {
+        height: auto;
+    }
+
+    header .header_top {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .main_content p {
+        font-size: 12px;
+        line-height: 1.8em;
+    }
+
+    .main_content .text_01 {
+        padding-top: 5%;
+    }
+
+    .top_btn {
+        margin-top: 20px;
+    }
+}
+
+
+.main_content .navy_text {
+    color: #24344d;
+}
+
+.main_content .orange_text {
+    color: #FD7F23;
+}
+
+.main_content .marker_yellow {
+    background: linear-gradient(transparent 0%, #ff0 15%);
+}
+
+.main_content .thank_you {
+    width: 190px;
+}
+
+.thanks_text {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 0.8em;
+    margin-bottom: 1.5em;
+}
+
+.main_content .top_text {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.8em;
+    margin-bottom: 1em;
+}
+
+.main_content .gray_wrap {
+    background-color: #efefef;
+    padding: 2.5em;
+}
+
+.main_content .gray_wrap .please {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0.2em;
+}
+
+.main_content .gray_wrap .number_title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0.3em;
+    margin-top: 1.5em;
+}
+
+.main_content {
+    width: 850px;
+    margin: auto;
+}
+
+.main_content .speech_bubble {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    max-width: 280px;
+    margin: 2em auto 0;
+    padding: 0.2em;
+    border: 3px solid #24344d;
+    border-radius: 100px;
+    background-color: #fff;
+    color: #24344d;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.main_content .speech_bubble::before,
+.main_content .speech_bubble::after {
+    position: absolute;
+    bottom: -15px;
+    right: 25px;
+    width: 20px;
+    height: 15px;
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+    content: '';
+}
+
+.main_content .speech_bubble::before {
+    background-color: #24344d;
+}
+
+.main_content .speech_bubble::after {
+    bottom: -11px;
+    background-color: #fff;
+}
+
+.main_content .link_btn_wrap {
+    display: flex;
+    justify-content: center;
+    margin: 2em 0 1em;
+}
+
+.main_content .link_btn_wrap .east{
+    display: block;
+    color: #FFFFFF;
+    background-color: #ffc000;
+    line-height: 1.8em;
+    padding: 0.5em 1.2em;
+    margin: 0 1em;
+    letter-spacing: 0.05em;
+}
+
+.main_content .link_btn_wrap .east:hover, .main_content .link_btn_wrap .west:hover {
+    opacity: 0.7;
+}
+
+.main_content .link_btn_wrap .west{
+    display: block;
+    color: #FFFFFF;
+    background-color: #8fabdd;
+    line-height: 1.8em;
+    padding: 0.5em 1.2em;
+    margin: 0 1em;
+    letter-spacing: 0.05em;
+}
+
+.main_content .gray_wrap .small_text{
+    font-size: 14px;
+}
+
+.main_content .step_wrap {
+    padding: 3.5em 4em 1em 4em;
+}
+
+.main_content .step_wrap .top_title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 2em;
+    text-align: left;
+}
+
+.main_content .step_wrap .step_ul li {
+    display: flex;
+    margin-bottom: 3em;
+}
+
+.main_content .step_wrap .step_ul li .step_square{
+    background-color: #24344d;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 0.5em;
+    margin-right: 1.2em;
+    height: 55px;
+    width: 55px;
+}
+
+.main_content .step_wrap .step_ul li .step_square .text{
+    font-size: 16px;
+    line-height: 1em;
+    padding-bottom: 0.1em;
+}
+
+.main_content .step_wrap .step_ul li .step_square .num{
+    font-size: 21px;
+    line-height: 1em;
+}
+
+.main_content .step_wrap .step_ul li .text_wrap{
+    text-align: left;
+}
+
+.main_content .step_wrap .step_ul li .text_wrap .step_title{
+    font-size: 18px;
+    line-height: 2.2em;
+}
+
+.main_content .step_wrap .step_ul li .text_wrap .step_text{
+    line-height: 1.8em;
+}
+
+.main_content .bottom_text01{
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 0.8em;
+}
+
+.main_content .bottom_text02{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+
+.main_content .top_btn {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.main_content .bottom_logo {
+    margin: 3em 0 1.5em;
+}
+
+.main_content .bottom_logo img {
+    width: 150px;
+}
+
+header .header_orange_wrap {
+    background-position: top;
+}
+
+@media screen and (max-width: 700px) {
+    .main_content {
+        width: auto;
+        margin: 20px;
+    }
+
+    header .header_orange_wrap{
+        background: none;
+    }
+
+    header .header_top {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    header .header_top img {
+        width: 110px;
+        margin: 0 10px 0 5px;
+        padding: 4px 8px;
+    }
+
+    header .logo_text {
+        font-size: 13px;
+    }
+
+    header .sp_img {
+        width: 160%;
+        height: 100px;
+        object-fit: cover;
+        object-position: right top;
+    }
+
+    .main_content .thank_you {
+        width: 150px;
+    }
+
+    .main_content .thanks_text {
+        font-size: 17px;
+        line-height: 1.5em;
+    }
+
+    .main_content .gray_wrap {
+        padding: 1em;
+    }
+
+    .main_content .gray_wrap .please {
+        font-size: 15px;
+    }
+
+    .main_content .top_text {
+        font-size: 15px;
+    }
+
+    .main_content .speech_bubble {
+        max-width: 210px;
+        margin: 1em auto 0;
+    }
+
+    .main_content .speech_bubble p {
+        font-size: 14px;
+    }
+
+    .main_content .gray_wrap .number_title {
+        font-size: 14px;
+    }
+
+    .main_content .link_btn_wrap {
+        font-size: 12px;
+    }
+
+    .main_content .link_btn_wrap .east {
+        margin: 0 0.5em 0 0;
+    }
+
+    .main_content .link_btn_wrap .west {
+        margin: 0 0 0 0.5em;
+    }
+
+    .main_content .gray_wrap .small_text {
+        font-size: 12px;
+        margin-bottom: 1em;
+    }
+
+    .main_content .step_wrap {
+        padding: 1.3em 0;
+    }
+
+    .main_content .step_wrap .top_title {
+        font-size: 13px;
+        margin-bottom: 1em;
+    }
+
+    .main_content .step_wrap .step_ul li {
+        margin-bottom: 1.5em;
+    }
+
+    .main_content .step_wrap .step_ul li .step_square {
+        margin-right: 0.5em;
+        height: 45px;
+        width: 44px;
+    }
+
+    .main_content .step_wrap .step_ul li .step_square .text {
+        font-size: 11px;
+    }
+
+    .main_content .step_wrap .step_ul li .step_square .num {
+        font-size: 18px;
+    }
+
+    .main_content .step_wrap .step_ul li .text_wrap .step_title {
+        font-size: 14px;
+        line-height: 1.8em;
+    }
+
+    .main_content .bottom_text01 {
+        font-size: 17px;
+        line-height: 1.4em;
+    }
+
+    .main_content .bottom_text02 {
+        font-size: 12px;
+    }
+
+    .main_content .top_btn {
+        font-size: 14px;
+    }
+
+    .main_content .img_wrap .img_right {
+        width: 150px;
+    }
+
+    .main_content .img_wrap {
+        position: relative;
+    }
+
+    .main_content .img_wrap .point_text {
+        font-size: 10px;
+        width: 220px;
+        transform: scale(0.75);
+        position: absolute;
+        right: -34px;
+        bottom: -30px;
+    }
+
+    .main_content .bottom_logo {
+        margin: 5em 0 0;
+    }
+
+    .main_content .bottom_logo img {
+        width: 110px;
+    }
+
+}
+.c-mini-text {
+    font-size: .9em;
+}

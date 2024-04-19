@@ -1,0 +1,92 @@
+
+[export_log] 2024-01-03 02:40:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '189951',
+        'msg' => '[success]コンタクト登録: 189951',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '埼玉県',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '400万未満',
+      'lastname' => '井口',
+      'firstname' => '青空',
+      'email' => 'aozora265@icloud.com',
+      'phone' => '09063515019',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-03 10:43:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190001',
+        'msg' => '[success]コンタクト登録: 190001',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '横山',
+      'firstname' => '莉亞',
+      'vvzz3' => '1～3年',
+      'state' => '東京都',
+      'email' => 'pikuokun7090@gmail.com',
+      'phone' => '09070172279',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-03 10:47:53
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190001',
+        'msg' => '[success]コンタクト更新成功: 190001',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '20代後半',
+      'state' => '関東',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '400～500万未満',
+      'lastname' => '横山',
+      'firstname' => '莉亞',
+      'email' => 'pikuokun7090@gmail.com',
+      'phone' => '09070172279',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

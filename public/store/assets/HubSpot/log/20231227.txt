@@ -1,0 +1,30 @@
+
+[export_log] 2023-12-27 18:39:28
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '189051',
+        'msg' => '[success]コンタクト登録: 189051',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '田中',
+      'firstname' => '亜以子',
+      'vvzz3' => '1～3年',
+      'state' => '千葉',
+      'email' => 'orichan730@gmail.com',
+      'phone' => '09037118481',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

@@ -1,0 +1,764 @@
+.container_wrap{
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto 80px;
+}
+.jobsearch-wrap .heading {
+    background-color: #24354e;
+    color: #fff;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: bold;
+    padding: 1em;
+}
+
+.jobsearch-wrap dl {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.jobsearch-wrap dl dd,
+.jobsearch-wrap dl dt {
+    border-bottom: 1px solid #d6d6d6;
+}
+.jobsearch-wrap dl dt {
+    border-left: 1px solid #d6d6d6;
+    width: 170px;
+    background-color: #f6f6f6;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #000;
+    padding: 1.2em;
+    position: relative;
+}
+.jobsearch-wrap dt .arrow {
+    display: none;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    -webkit-transform: translate(-100%,-50%) rotate(180deg);
+    -ms-transform: translate(-100%,-50%) rotate(180deg);
+    -o-transform: translate(-100%,-50%) rotate(180deg);
+    transform: translate(-100%,-50%) rotate(180deg);
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
+.jobsearch-wrap dt.closed .arrow {
+    -webkit-transform: translate(-100%,-50%) rotate(0deg);
+    -ms-transform: translate(-100%,-50%) rotate(0deg);
+    -o-transform: translate(-100%,-50%) rotate(0deg);
+    transform: translate(-100%,-50%) rotate(0deg);
+}
+.jobsearch-wrap dl .icon {
+    height: 23px;
+    width: 23px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+}
+.jobsearch-wrap dl .icon img {
+    vertical-align: top;
+    vertical-align: sub;
+    height: 100%;
+}
+.jobsearch-wrap dl dd {
+    border-right: 1px solid #d6d6d6;
+    font-size: 15px;
+    line-height: 1.8;
+    padding: 1.2em;
+    width: 730px;
+}
+.jobsearch-wrap dl dd.narrow {
+    padding: .7em 1.2em;
+}
+.jobsearch-wrap dl dd.narrow:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.jobsearch-wrap dl dd .modalToggle {
+    margin-bottom: 0;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 2.6;
+    display: inline-block;
+    float: left;
+    vertical-align: top;
+    max-width: 130px;
+    text-align: center;
+}
+.jobsearch-wrap dl dd .choseList {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 38px;
+    margin-left: 145px;
+}
+
+.jobsearch-wrap dl dd .choseList {
+    margin-left: 0;
+}
+
+.jobsearch-wrap dl dd .choseList li {
+    width: auto;
+    min-width: 33%;
+    white-space: nowrap;
+}
+.jobsearch-wrap .checkbox-wrap li {
+    display: inline-block;
+    padding-right: 20px;
+}
+.jobsearch-wrap .checkbox-wrap.column-2 {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -o-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.jobsearch-wrap .checkbox-wrap.column-2 li {
+    width: 50%;
+}
+.jobsearch-wrap dl dd .choseList input,
+.jobsearch-wrap .checkbox-wrap li input {
+    display: none;
+}
+.jobsearch-wrap dl dd .choseList label,
+.jobsearch-wrap .checkbox-wrap li label {
+    position: relative;
+    display: block;
+    padding: 0 0 0 1.75em;
+    cursor: pointer;
+}
+.jobsearch-wrap dl dd .choseList label {
+    padding: .4em 0 .4em 1.75em;
+    line-height: 1.2;
+}
+.jobsearch-wrap dl dd .choseList label:before,
+.jobsearch-wrap .checkbox-wrap li label:before {
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    position: absolute;
+    top: 40%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display: block;
+    width: 7px;
+    height: 12px;
+    margin-top: -2px;
+    border-right: 3px solid #fd7f23;
+    border-bottom: 3px solid #fd7f23;
+    content: "";
+    opacity: 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg) translateY(-50%);
+    z-index: 1;
+}
+.jobsearch-wrap dl dd .choseList .active input + label:before, .jobsearch-wrap dl dd .choseList input.active + label:before,
+.jobsearch-wrap .checkbox-wrap li .active input + label:before, .jobsearch-wrap .checkbox-wrap li input.active + label:before {
+    opacity: 1;
+}
+.jobsearch-wrap dl dd .choseList label:after,
+.jobsearch-wrap .checkbox-wrap li label:after {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display: block;
+    width: 15px;
+    height: 15px;
+    border: 2px solid #e1e1e1;
+    content: "";
+    border-radius: 2px;
+    background: #fff;
+}
+
+.jobsearch-wrap .checkbox-wrap ul {
+    display: inline-block;
+}
+.jobsearch-wrap .checkbox-wrap p {
+    display: inline-block;
+    width: 170px;
+}
+.jobsearch-wrap .checkbox-wrap p label {
+    font-weight: 700;
+}
+.jobsearch-wrap .checkbox-wrap.area > li {
+    display: block;
+    padding-top: 10px;
+}
+.jobsearch-wrap .checkbox-wrap.area > li:first-child {
+    padding-top: 0;
+}
+
+.jobsearch-wrap dl dd select {
+    border: 1px solid #d6d6d6;
+    box-shadow: none;
+    color: #000;
+    background-color: #f6f6f6;
+    width: 100%;
+    -webkit-appearance: none;
+    font-size: 14px;
+    line-height: 2.6;
+    padding: 0 1em;
+    width: 100%;
+    max-width: 190px;
+    border-radius: 10px;
+}
+.jobsearch-wrap dl dd .select-wrap {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width: 190px;
+    margin-right: .5em;
+}
+.jobsearch-wrap dl dd .select-wrap i {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    color: #1CB5B6;
+    z-index: 1;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.jobsearch-wrap .btn-area {
+    background-color: #f6f6f6;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #d6d6d6;
+    border-top: none;
+}
+.jobsearch-wrap .btn-area .btn-search {
+    display: inline-block;
+    width: 380px;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    line-height: 2;
+    padding: .4em 0;
+    font-weight: bold;
+    background: #F77809;
+    border-radius: 30px;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b9ad1', endColorstr='#0877b2',GradientType=0 );
+    box-shadow: 0 3px 4px 0 #CCC;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    cursor: pointer;
+}
+.jobsearch-wrap .btn-area .btn-search span {
+    font-weight: bold;
+}
+.jobsearch-wrap .btn-area .btn-search span:before {
+    content: '';
+}
+.jobsearch-wrap .btn-area .btn-search:hover {
+    -webkit-transform: translateY(2px);
+    -ms-transform: translateY(2px);
+    -o-transform: translateY(2px);
+    transform: translateY(2px);
+    box-shadow: 0 1px 0 0 #ccc;
+}
+
+.jobsearch-wrap .btn-area .btn-form_clear {
+    display: inline-block;
+    width: 130px;
+    margin-left: 1em;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    line-height: 2.6;
+    padding: 0;
+    font-weight: bold;
+    background: #b9b9b9;
+    box-shadow: 0 3px 4px 0 #ccc;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.jobsearch-wrap .btn-area .btn-form_clear:hover {
+    -webkit-transform: translateY(2px);
+    -ms-transform: translateY(2px);
+    -o-transform: translateY(2px);
+    transform: translateY(2px);
+    box-shadow: 0 1px 0 0 #909090;
+}
+
+
+.jobsearch-wrap .btn-area i {
+    margin-right: .5em;
+}
+
+
+
+
+
+/*searchPrivateJob*/
+.wrap .searchPrivateJob {
+    margin-top: 0;
+    margin-bottom: 30px;
+    background: #fff url(/jobsearch/img/bg_searchPrivateJob-pc.jpg) 0 0/100% auto no-repeat;
+    box-shadow: 0 0 0 1px #d6d6d6 inset, 0 0 0 5px #fff inset;
+    padding: 5px;
+    border: none;
+}
+.wrap .searchPrivateJob .sp {
+    display: none;
+}
+.wrap .searchPrivateJob .privateJobTit {
+    padding: 28px 0 0;
+    text-align: center;
+}
+.wrap .searchPrivateJob .privateJobAbout {
+    margin: 7px auto 0;
+    padding: 10px 0;
+    width: 798px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    background: #fff;
+    background: rgba(255,255,255,.6);
+}
+.wrap .searchPrivateJob .privateJobAbout dl{
+    display: table;
+    width: 100%;
+}
+.wrap .searchPrivateJob .privateJobAbout dt {
+    display: table-cell;
+    width: 109px;
+    border-right: 1px solid #bea9b3;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 13px;
+    color: #d9217d;
+}
+.wrap .searchPrivateJob .privateJobAbout dd {
+    padding: 2px 30px 1px 25px;
+    line-height: 1.5;
+    font-size: 13px;
+}
+.wrap .searchPrivateJob .privateJobAbout dd b{
+    font-size: 14px;
+    color: #1262b2;
+}
+.wrap .searchPrivateJob .privateJobAbout dd a{
+    position: relative;
+    padding-left: 8px;
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    color: #d9217d;
+}
+.wrap .searchPrivateJob .privateJobAbout dd a::before{
+    position: absolute;
+    top: 7px;
+    left: 0;
+    display: inline-block;
+    content: '';
+    border: 3px solid transparent;
+    border-left: 4px solid #d9217d;
+}
+.wrap .searchPrivateJob .privateJobAbout dd a:hover {
+    color: #fe61b0;
+}
+.wrap .searchPrivateJob .privateJobAbout dd a:hover::before{
+    border-left: 4px solid #fe61b0;
+}
+
+.wrap .searchPrivateJob .privateJobEx {
+    margin: 15px 35px 0;
+}
+.wrap .searchPrivateJob .privateJobEx p {
+    padding: 5px 0 4px;
+    background: #00b3b3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+}
+.wrap .searchPrivateJob .privateJobEx img {
+    width: 100%;
+}
+.wrap .searchPrivateJob .privateJobNote {
+    margin: 10px 35px 20px;
+}
+.wrap .searchPrivateJob .privateJobNote li {
+    line-height: 1.6;
+    font-size: 12px;
+}
+.wrap .searchPrivateJob .privateJobBtn {
+    padding: 15px 25px;
+    background: #e7f0f7;
+    text-align: center;
+}
+.wrap .searchPrivateJob .privateJobBtn .btnOrange a {
+    font-size: 16px;
+}
+
+
+
+@media screen and (max-width: 640px) {
+    .jobsearch-wrap {
+        padding-bottom: 20px;
+    }
+    .jobsearch-wrap .heading {
+        font-size: 16px;
+    }
+    .jobsearch-wrap dl dt {
+        font-size: 16px;
+        padding: .75em 1em;
+        width: 100%;
+        border-right: 1px solid #ddd;
+    }
+    .jobsearch-wrap dl dd {
+        font-size: 13px;
+        width: 100%;
+        border-left: 1px solid #ddd;
+        padding: 0;
+    }
+    .jobsearch-wrap .checkbox-wrap li {
+        display: block;
+        width: 100%;
+        padding: 1em;
+        border-bottom: 1px solid #ddd;
+    }
+    .jobsearch-wrap .checkbox-wrap li:last-child {
+        border-bottom: none;
+    }
+    .jobsearch-wrap dl dd.narrow {
+        padding: .75em 1em 0;
+    }
+    .jobsearch-wrap dl dd .modalToggle {
+        margin-bottom: .75em;
+        font-size: 13px;
+        padding: .5em 0;
+        float: none;
+        display: block;
+    }
+    .jobsearch-wrap dl dd .choseList {
+        padding-left: 0;
+        display: block;
+        min-height: 0;
+        margin-left: 0;
+    }
+    .jobsearch-wrap dl dd .choseList li:last-child {
+        margin-bottom: .75em;
+    }
+    .jobsearch-wrap dl dd .select-wrap {
+        margin-bottom: .75em;
+        width: 80%;
+        max-width: 273px;
+    }
+    .jobsearch-wrap dl dd select {
+        font-size: 13px;
+        padding: .5em 1.5em;
+        width: 100%;
+        max-width: 100%;
+    }
+    .jobsearch-wrap dt .arrow {
+        display: block;
+    }
+    .jobsearch-wrap .checkbox-wrap.area li {
+        border: none;
+    }
+    .jobsearch-wrap .checkbox-wrap.area > li {
+        padding: 0;
+        border-top: 1px solid #ddd;
+        margin-top: -1px;
+    }
+    .jobsearch-wrap .checkbox-wrap.area > li:first-child {
+        border-top: none;
+    }
+    .jobsearch-wrap .checkbox-wrap.area > li p {
+        display: block;
+        padding: 1em;
+        width: 100%;
+    }
+    .jobsearch-wrap .checkbox-wrap.area ul {
+        width: 100%;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+        -moz-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        -o-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .jobsearch-wrap .checkbox-wrap.area ul li {
+        width: 50%;
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        margin-top: -1px;
+    }
+    .jobsearch-wrap .checkbox-wrap.area ul li:nth-child(2n) {
+        border-right: none;
+    }
+    .jobsearch-wrap .checkbox-wrap.column-2 li {
+        width: 100%;
+    }
+    .jobsearch-wrap .btn-area {
+        padding: 15px 0;
+    }
+    .jobsearch-wrap .btn-area .btn-search {
+        font-size: 15px;
+        width: 154px;
+        padding: .7em 0;
+    }
+    .jobsearch-wrap .btn-area .btn-search span:before {
+        display: none;
+    }
+    .jobsearch-wrap .btn-area .btn-form_clear {
+        font-size: 14px;
+        width: 104px;
+        line-height: 2.8;
+    }
+    .jobsearch-wrap dt + dd {
+        opacity: 1;
+        visibility: visible;
+        height: auto;
+        -webkit-transition: .3s;
+        -o-transition: .3s;
+        transition: .3s;
+    }
+    .jobsearch-wrap dt.closed + dd {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+        padding: 0;
+    }
+
+    /*searchPrivateJob*/
+    .wrap .searchPrivateJob {
+        margin-top: 0;
+        background: #fff url(/jobsearch/img/bg_searchPrivateJob.jpg) 0 0/100% auto no-repeat;
+        box-shadow: 0 0 0 1px #d6d6d6 inset, 0 0 0 5px #fff inset;
+        padding: 5px;
+        border: none;
+    }
+    .wrap .searchPrivateJob .sp {
+        display: block;
+    }
+    .wrap .searchPrivateJob .pc {
+        display: none;
+    }
+    .wrap .searchPrivateJob.isUnderRule {
+        margin-top: 30px;
+    }
+    .wrap .searchPrivateJob .privateJobTit {
+        padding: 0 0 0;
+        text-align: center;
+    }
+    .wrap .searchPrivateJob .privateJobTit img{
+        width: 100%;
+    }
+    .wrap .searchPrivateJob .privateJobAbout {
+        width: auto;
+        margin: 12px 5px 0;
+        padding: 8px 10px;
+        border-radius: 5px;
+        background: rgba(255,255,255,.6);
+        border: 1px solid #fff;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dl{
+        display: block;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dt {
+        display: block;
+        text-align: left;
+        border: none;
+        width: 109px;
+        font-weight: bold;
+        font-size: 12px;
+        color: #d9217d;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dd {
+        padding: 4px 0 0 0;
+        line-height: 1.9;
+        font-size: 11px;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dd b{
+        font-size: 11px;
+        font-weight: normal;
+        color: #1262b2;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dd a{
+        position: relative;
+        padding-left: 8px;
+        display: inline-block;
+        margin-top: 4px;
+        text-decoration: underline;
+        font-weight: bold;
+        font-size: 12px;
+        color: #d9217d;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dd a::before{
+        position: absolute;
+        top: 7px;
+        left: 0;
+        display: inline-block;
+        content: '';
+        border: 3px solid transparent;
+        border-left: 4px solid #d9217d;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dd a:hover {
+        color: #fe61b0;
+    }
+    .wrap .searchPrivateJob .privateJobAbout dd a:hover::before{
+        border-left: 4px solid #fe61b0;
+    }
+
+    .wrap .searchPrivateJob .privateJobEx {
+        margin: 10px 5px 0;
+    }
+    .wrap .searchPrivateJob .privateJobEx p {
+        padding: 8px 0 6px;
+        background: #00b3b3;
+        text-align: center;
+        font-weight: bold;
+        font-size: 14px;
+        color: #fff;
+    }
+    .wrap .searchPrivateJob .privateJobEx img {
+        width: 100%;
+    }
+    .wrap .searchPrivateJob .privateJobNote {
+        margin: 10px 15px 20px;
+    }
+    .wrap .searchPrivateJob .privateJobNote li {
+        line-height: 1.9;
+        font-size: 12px;
+    }
+    .wrap .searchPrivateJob .privateJobBtn {
+        padding: 20px 25px;
+        background: #e7f0f7;
+        text-align: center;
+    }
+    .wrap .searchPrivateJob .privateJobBtn .btnOrange a{
+        padding-right: 10px;
+        font-size: 15px;
+    }
+    /*btn*/
+    .wrap .btnBlue{
+        position: relative;
+        display: block;
+        width: 75vw;
+        margin: 0 auto;
+        vertical-align: middle;
+    }
+    .wrap .btnOrange{
+        position: relative;
+        display: block;
+        width: 75vw;
+        margin: 0 auto;
+        vertical-align: middle;
+    }
+
+
+    .wrap .btnOrange.isWide{
+        width: 90vw;
+    }
+    .wrap .btnBlue a,
+    .wrap .btnOrange a,
+    .wrap .btnBlue input,
+    .wrap .btnOrange input{
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 48px;
+        line-height: 47px;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        background: none;
+        border: none;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        font-weight: bold;
+        font-size: 14px;
+        z-index: 2;
+        vertical-align: top;
+        text-decoration: none;
+        cursor: pointer;
+        color: #fff;
+    }
+    .wrap .btnBlue::before,
+    .wrap .btnOrange::before{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        content: '';
+        display: block;
+        width: 100%;
+        height: 45px;
+        border-radius: 8px;
+        color: #fff;
+        z-index: 1;
+    }
+    .wrap .btnOrange::before{
+        background: #f70;
+        border-bottom: 3px solid #c26706;
+    }
+    .wrap .btnBlue::before{
+        background: #238fc9;
+        border-bottom: 3px solid #0e5f8b;
+    }
+    .wrap .btnBlue:hover::before,
+    .wrap .btnOrange:hover::before{
+        border-bottom: none;
+    }
+    .wrap .btnBlue:hover a,
+    .wrap .btnOrange:hover a,
+    .wrap .btnBlue:hover input,
+    .wrap .btnOrange:hover input{
+        padding-top: 3px;
+        text-decoration: none;
+        border-bottom: none;
+    }
+}
+
+/*検索一覧*/
+.search-top {
+    padding-bottom: 30px;
+}

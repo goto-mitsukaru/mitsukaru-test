@@ -1,0 +1,638 @@
+@charset "UTF-8";
+@media screen and (min-width: 480px) {
+    html {
+        font-size: 75%;
+    }
+
+    .main_content {
+        margin-top: 80px;
+    }
+
+    .pc_contents {
+        width: 1100px;
+        margin: 0 auto;
+    }
+
+    a:hover,
+    button:hover,
+    .js_menu_switch:hover,
+    .search_modal_open,
+    select,
+    .js_message_delete,
+    .switcher_wrap li:hover {
+        cursor: pointer;
+        opacity: 0.8;
+    }
+
+    .occupation_list li {
+        width: auto;
+    }
+
+    .occupation_list li label:hover {
+        cursor: pointer;
+    }
+
+    .apply_button {
+        width: 35vh;
+    }
+
+    .contact_form {
+        text-align: center;
+    }
+
+    .base_modal {
+        width: 30%;
+    }
+
+    .Breadcrumb_wrap > li a:before {
+        top: 5px;
+    }
+
+    /*//------------- ログイン&登録 -------------------//*/
+    .signin_page.logined {
+        min-height: 92vh;
+    }
+
+    .signin_page .ago_button {
+        margin-bottom: 50px;
+    }
+
+    .signin_page .input_area {
+        width: 600px;
+        margin: 0 auto;
+        padding: 13vh 0 0 0;
+        line-height: 1.5;
+    }
+
+    .signin_page .input_area .heading_wrap .site_logo {
+        font-size: 4rem;
+    }
+
+    .signin_page .input_area .progress {
+        width: 60%;
+    }
+
+    .signin_page .input_area .progress .progress_bar {
+        width: 31%;
+        left: 3%;
+    }
+
+    .signin_page .input_area .progress .progress_bar.right {
+        left: 67%;
+    }
+
+    .signin_page .input_area .progress .progress_bar.center {
+        left: 35%;
+    }
+
+    .occupation_list {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .occupation_list.history {
+        text-align: left;
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    .occupation_list.history li {
+        width: calc(100% / 2 - 10px);
+    }
+
+    .occupation_list.history li + li {
+        margin: 0;
+    }
+
+    .occupation_list.history li:nth-child(2n) {
+        margin-left: 10px;
+    }
+
+    .occupation_list.history li label {
+        width: 100%;
+    }
+
+    .occupation_list li + li {
+        margin: 0 0 0 10px;
+    }
+
+    .occupation_list li label {
+        width: calc(100vh / 4);
+        padding: 0 10px;
+    }
+
+    .occupation_list.pc {
+        justify-content: unset;
+    }
+
+    .occupation_list.pc li {
+        width: calc(100% / 3 - 20px);
+        margin: 0 10px 10px 0;
+    }
+
+    .occupation_list.pc li label {
+        width: 100%;
+    }
+
+    /*//------------- ヘッダー -------------------//*/
+    header {
+        height: 80px;
+    }
+
+    header .logo_img {
+        width: 215px;
+    }
+
+    header .header_icon_list li {
+        width: 80px;
+    }
+
+    header .header_icon_list li img {
+        width: 30px;
+    }
+
+    header .header_icon_list li.sign_up {
+        width: 20vh;
+    }
+
+    header .header_icon_list li.sign_up a {
+        display: flex;
+        align-items: center;
+    }
+
+    header .header_icon_list li.sign_up a span {
+        background: #223550;
+        display: flex;
+        align-items: center;
+        padding: 13px 20px;
+        border-radius: 30px;
+    }
+
+    header .header_icon_list li.sign_up a span img {
+        width: 2vh;
+        margin-right: 10px;
+    }
+
+    .burger_menu {
+        width: 50%;
+    }
+
+    .burger_menu .menu_link_list {
+        padding: 2vh 9vh;
+    }
+
+    .burger_menu .login_data_wrap {
+        padding: 2vh 7vh;
+    }
+
+    /*//------------- フッター -------------------//*/
+    footer .top_footer ul {
+        width: 1100px;
+    }
+
+    footer .top_footer ul li {
+        justify-content: center;
+    }
+
+    footer .top_footer ul li a + a {
+        margin-left: 50px;
+    }
+
+    footer .top_footer ul li a:hover {
+        text-decoration: underline;
+    }
+
+    /*//------------- プロフィール編集 -------------------//*/
+    .profile_wrap {
+        width: 600px;
+        margin: 0 auto;
+    }
+
+    .profile_wrap dl dd label {
+        width: 100%;
+    }
+
+    .prologue_list {
+        position: fixed;
+        top: 20%;
+        left: 15%;
+        font-size: 1.3rem;
+        text-align: right;
+    }
+
+    .prologue_list li a {
+        border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+        display: inline-block;
+        padding-bottom: 3px;
+    }
+
+    .prologue_list li a.active, .prologue_list li a:hover {
+        border-bottom: 2px solid #2a70b5;
+    }
+
+    .prologue_list li + li {
+        margin-top: 30px;
+    }
+
+    .profile_form .occupation_list li label {
+        width: 100%;
+    }
+
+    .profile_form .button_area {
+        position: fixed;
+        right: 0;
+        padding: 0;
+        background: none;
+        width: auto;
+    }
+
+    .profile_form .button_area .apply_button {
+        border-radius: 60px 0 0 0;
+    }
+
+    .profile_form .button_area .apply_button .icon_img {
+        display: block;
+        margin: 0 auto 10px;
+    }
+
+    .profile_update {
+        width: 30vh;
+        margin: 0 auto 50px;
+    }
+
+    /*//------------- プロジェクト詳細 -------------------//*/
+    .job_img_wrap {
+        background-color: #223550;
+        padding: 30px;
+        width: 100%;
+    }
+
+    .job_img_wrap > div {
+        display: flex;
+    }
+
+    .job_img_wrap .job_main_img {
+        height: calc(39vh + 23px);
+    }
+
+    .job_img_wrap .job_img_list {
+        width: 20vh;
+        display: block;
+        margin-left: 30px;
+        padding: 0;
+    }
+
+    .job_img_wrap .job_img_list li {
+        width: auto;
+    }
+
+    .job_img_wrap .job_img_list li img {
+        height: 13vh;
+    }
+
+    .job_img_wrap .job_img_list li img:hover {
+        cursor: pointer;
+    }
+
+    .job_img_wrap .job_img_list li:nth-child(2) {
+        margin: 10px 0;
+    }
+
+    .pc_detail_area {
+        padding: 5vh 0;
+    }
+
+    .pc_detail_area h2.job_title {
+        margin-bottom: 5vh;
+    }
+
+    .pc_detail_area .detail_wrap {
+        display: flex;
+    }
+
+    .pc_detail_area .detail_wrap .left_contents {
+        background-color: #e6e6f1;
+        padding: 3vh;
+        width: 60%;
+        position: relative;
+    }
+
+    .pc_detail_area .detail_wrap .left_contents .detail_text {
+        margin-top: 3vh;
+        text-align: left;
+        font-size: 1.3rem;
+        line-height: 1.7;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents {
+        width: calc(40% - 3vh);
+        margin-left: 3vh;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .top_info {
+        padding: 0;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .skil_info {
+        padding: 15px 0 30px 0;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .skil_info ul {
+        justify-content: unset;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .skil_info ul li {
+        margin-right: 5px;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .skil_info ul li + li {
+        margin-left: 0;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .pc_skill_wrap {
+        margin-top: 2vh;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .pc_skill_wrap .icon_img {
+        vertical-align: baseline;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .company_info {
+        background-color: #fff;
+        box-shadow: 0 0 3px grey;
+        color: #223550;
+        border-radius: 3px;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .company_info a {
+        color: #223550;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .company_info a:hover {
+        text-decoration: underline;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .company_info .round_icon_img {
+        width: 50px;
+        height: 50px;
+        padding: 2px;
+        border: 2px solid #333;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .button_area {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        z-index: 5;
+        padding: 0;
+        background: none;
+        width: auto;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .button_area .apply_button {
+        border-radius: 90px 0 0 0;
+    }
+
+    .pc_detail_area .detail_wrap .right_contents .button_area .apply_button .icon_img {
+        display: block;
+        margin: 0 auto 10px;
+    }
+
+    .job_info_wrap .this_apply {
+        margin-top: 30px;
+    }
+
+    .job_info_wrap .profile_wrap {
+        width: auto;
+    }
+
+    .applied_wrap {
+        position: relative;
+        cursor: pointer;
+    }
+
+    .applied_wrap > ul li a {
+        padding: 30px 0;
+    }
+
+    .apply_wrap.all,
+    .message_list {
+        width: 1000px;
+        margin: 0 auto;
+    }
+
+    .job_info_wrap .apply_wrap.all {
+        padding: 30px 0 50px;
+    }
+
+    /*//------------- トップページ -------------------//*/
+    .project_area {
+        padding: 7vh 12vh;
+    }
+
+    /*//------------- 応募履歴 -------------------//*/
+    .history_wrap {
+        padding: 0;
+        min-height: unset;
+    }
+
+    .history_wrap .list_area {
+        padding: 5vh 0;
+        min-height: calc(100vh - 184px);
+    }
+
+    .history_wrap .list_area .occupation_list {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .history_wrap .list_area .occupation_list li {
+        width: auto;
+    }
+
+    .history_wrap .list_area .occupation_list li + li {
+        margin-left: 20px;
+    }
+
+    .history_wrap .list_area .application_list {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+
+    .history_wrap .list_area .application_list > li {
+        width: calc(100% / 2 - 10px);
+        margin-bottom: 20px;
+    }
+
+    .history_wrap .list_area .application_list > li:nth-child(2n) {
+        margin-left: 20px;
+    }
+
+    .history_wrap .list_area .application_list > li .job_image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .history_wrap .list_area .application_list > li .job_data_wrap {
+        height: 100px;
+        width: calc(100% - 100px);
+    }
+
+    .history_wrap .list_area .application_list > li .job_data_wrap .job_data h2 {
+        line-height: 1.7;
+    }
+
+    /*//------------- 検索結果&top 共通 -------------------//*/
+    .project_wrap.pc {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 1150px;
+        margin: 0 auto;
+    }
+
+    .project_wrap.pc .project_list {
+        width: calc(100% / 3 - 20px);
+        margin: 20px 0 0 0;
+    }
+
+    .project_wrap.pc .project_list:nth-child(3n-1) {
+        margin: 20px 20px 0 20px;
+    }
+
+    .project_wrap .project_list + li {
+        margin-top: 0;
+    }
+
+    .main_text_wrap > div a:hover {
+        text-decoration: underline;
+    }
+
+    #ui-monthpicker-div {
+        width: 300px;
+    }
+
+    .advice {
+        text-align: center;
+    }
+
+    .data_hide_area {
+        width: 600px;
+        top: 30px;
+        left: 30px;
+    }
+
+    /*//------------ プラン ---------------//*/
+    .switcher_wrap .plan_detail > div {
+        line-height: 2;
+    }
+
+    /*//------------ lp ---------------//*/
+    .lp_all_wrap {
+        width: 750px;
+        height: auto;
+        margin: 0 auto;
+        box-shadow: 0 0 8px grey;
+    }
+
+    .lp_all_wrap .project_wrap .project_list + li {
+        margin-top: 15px;
+    }
+
+    .lp_all_wrap .worries_wrap img.company_list {
+        height: 75px;
+    }
+
+    .lp_all_wrap .top_view_wrap .lp_button,
+    .lp_all_wrap .consultation_wrap .lp_button {
+        left: 38px;
+    }
+
+    .lp_all_wrap .top_view_wrap .lp_button {
+        bottom: 5vh;
+    }
+
+    .lp_all_wrap .consultation_wrap .lp_button {
+        bottom: 20vh;
+    }
+
+    .lp_all_wrap .triangle_wrap {
+        bottom: 140px;
+    }
+
+    .lp_all_wrap .triangle_img {
+        bottom: -140px;
+    }
+
+    .lp_all_wrap .headline_wrap {
+        margin-top: 30px;
+    }
+
+    .lp_all_wrap .headline_wrap img {
+        width: 350px;
+    }
+
+    .lp_all_wrap .headline_wrap img + img {
+        width: 300px;
+    }
+
+    .lp_all_wrap .headline_wrap.mt {
+        margin-top: 100px;
+    }
+
+    .lp_all_wrap .register_wrap {
+        bottom: 140px;
+    }
+
+    .lp_all_wrap .register_wrap .lp_register_form {
+        width: 600px;
+        margin: 120px auto 0;
+    }
+
+    .lp_all_wrap .register_wrap .lp_register_form select {
+        opacity: 1;
+    }
+
+    .lp_all_wrap .register_wrap .lp_register_form img {
+        width: 350px;
+    }
+
+    .lp_all_wrap footer.lp_footer {
+        bottom: 140px;
+    }
+
+    .lp_all_wrap footer.lp_footer .bottom_footer {
+        position: absolute;
+        width: 100%;
+        height: 200px;
+    }
+
+    .lp_all_wrap footer.lp_footer .bottom_footer p {
+        margin-top: 100px;
+    }
+
+    .lp_all_wrap footer.lp_footer table th {
+        width: 25%;
+        text-align: center;
+    }
+
+    .lp_all_wrap .company_modal {
+        width: 50%;
+    }
+
+    .lp_all_wrap .voice_wrap .voice_list > li .bottom_area .right_area h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    .lp_all_wrap .voice_wrap .voice_list > li .bottom_area .right_area p {
+        line-height: 1.7;
+        font-size: 14px;
+    }
+
+    .lp_all_wrap.thanks footer.lp_footer table {
+        width: 750px;
+        margin: 20px auto 0;
+    }
+}

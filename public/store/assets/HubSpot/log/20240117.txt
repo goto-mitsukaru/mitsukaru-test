@@ -1,0 +1,63 @@
+
+[export_log] 2024-01-17 10:24:04
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '196101',
+        'msg' => '[success]コンタクト登録: 196101',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '中部',
+      'vvzz3' => '5年〜7年',
+      'n224135' => '700～800万未満',
+      'lastname' => '吉川',
+      'firstname' => '文貴',
+      'email' => 'Fumitaka.yoshi18@outlook.jp',
+      'phone' => '08097295000',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-17 14:09:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '189051',
+        'msg' => '[success]コンタクト更新成功: 189051',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代後半',
+      'state' => '千葉県',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '400～500万未満',
+      'lastname' => '緒方',
+      'firstname' => '亜以子',
+      'email' => 'orichan730@gmail.com',
+      'phone' => '09037118481',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

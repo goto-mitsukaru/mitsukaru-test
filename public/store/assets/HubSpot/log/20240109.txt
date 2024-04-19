@@ -1,0 +1,61 @@
+
+[export_log] 2024-01-09 17:16:41
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '191401',
+        'msg' => '[success]コンタクト登録: 191401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '横井',
+      'firstname' => '悠人',
+      'vvzz3' => '1～3年',
+      'state' => '千葉県',
+      'email' => 'y.yuuto1014@gmail.com',
+      'phone' => '09082345474',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-09 18:27:30
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '191401',
+        'msg' => '[success]コンタクト更新成功: 191401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '20代後半',
+      'state' => '千葉県',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '400～500万未満',
+      'lastname' => '横井',
+      'firstname' => '悠人',
+      'email' => 'y.yuuto1014@gmail.com',
+      'phone' => '09082345474',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

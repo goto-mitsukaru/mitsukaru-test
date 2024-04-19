@@ -1,0 +1,1672 @@
+
+[export_log] 2024-01-24 13:09:48
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '202401',
+        'msg' => '[success]コンタクト登録: 202401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '福岡県',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '400万未満',
+      'lastname' => '金田',
+      'firstname' => '規寿',
+      'email' => 'noritarou0213@gmail.com',
+      'phone' => '08027450389',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 13:51:49
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '202451',
+        'msg' => '[success]コンタクト登録: 202451',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'test',
+      'firstname' => 'test',
+      'vvzz3' => 'none',
+      'state' => '01111111',
+      'email' => 'this.yinhe@gmail.com',
+      'phone' => '0123456789',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 15:04:55
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト伊東10-0-5',
+      'firstname' => 'テスト伊東10-0-5',
+      'vvzz3' => 'none',
+      'state' => '東京',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 15:24:50
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '195201',
+        'msg' => '[success]コンタクト更新成功: 195201',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => 'テスト',
+      'email' => 'miyazaki@mitsukaru-jpn.com',
+      'phone' => '0345004401',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 16:19:56
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テストサンクスメール用',
+      'firstname' => 'テストサンクスメール用',
+      'vvzz3' => 'none',
+      'state' => '東京',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 17:36:38
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 214,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 181,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 1071,
+          'function' => 'skillPost',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 998,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_frag\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"specific_frag\\",\\"localizedErrorMessage\\":\\"プロパティー「specific_frag」は存在しません\\",\\"portalId\\":44031711}]","correlationId":"91f62cc1-8ce8-439b-bad5-875a9109337a","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Wed, 24 Jan 2024 08:36:38 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '405',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '84a6f3289de529cf-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '114',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-fcdc68c87-744hz',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '91f62cc1-8ce8-439b-bad5-875a9109337a',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499991',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '91f62cc1-8ce8-439b-bad5-875a9109337a',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B19C093DAF9EE88305F493A9CE01734EB0C01C37A000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=V0cS1I%2FM%2FuKjdXi1c%2BFSgYHbT4ksUBo12TaVPSjLgl01icCCWL3kbU14g4hYnV%2Bz7g3GzW%2BTATDQMd33Ns3BmWxh5Hi5tsfic1wUYJ1ffC0sEUUtxNednCqzwAxjlRM2"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"specific_frag\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"specific_frag","localizedErrorMessage":"プロパティー「specific_frag」は存在しません","portalId":44031711}]',
+          'correlation_id' => '91f62cc1-8ce8-439b-bad5-875a9109337a',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-24 17:36:38
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 214,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 181,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 1071,
+          'function' => 'skillPost',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 998,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_frag\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"specific_frag\\",\\"localizedErrorMessage\\":\\"プロパティー「specific_frag」は存在しません\\",\\"portalId\\":44031711}]","correlationId":"91f62cc1-8ce8-439b-bad5-875a9109337a","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Wed, 24 Jan 2024 08:36:38 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '405',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '84a6f3289de529cf-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '114',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-fcdc68c87-744hz',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '91f62cc1-8ce8-439b-bad5-875a9109337a',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499991',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '91f62cc1-8ce8-439b-bad5-875a9109337a',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B19C093DAF9EE88305F493A9CE01734EB0C01C37A000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=V0cS1I%2FM%2FuKjdXi1c%2BFSgYHbT4ksUBo12TaVPSjLgl01icCCWL3kbU14g4hYnV%2Bz7g3GzW%2BTATDQMd33Ns3BmWxh5Hi5tsfic1wUYJ1ffC0sEUUtxNednCqzwAxjlRM2"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"specific_frag\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"specific_frag","localizedErrorMessage":"プロパティー「specific_frag」は存在しません","portalId":44031711}]',
+          'correlation_id' => '91f62cc1-8ce8-439b-bad5-875a9109337a',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-24 18:41:21
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 216,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 183,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 1071,
+          'function' => 'skillPost',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 998,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_frag\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"specific_frag\\",\\"localizedErrorMessage\\":\\"プロパティー「specific_frag」は存在しません\\",\\"portalId\\":44031711}]","correlationId":"218034c4-c34b-4450-9aff-064c71d22e2a","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Wed, 24 Jan 2024 09:41:21 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '405',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '84a751f8a96829db-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '118',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-fcdc68c87-w2qjn',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '218034c4-c34b-4450-9aff-064c71d22e2a',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499990',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '218034c4-c34b-4450-9aff-064c71d22e2a',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B5B458E1ADDD9FF1542D955A043DBC51C66656516000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=CUEXbDVAsV%2FE8GSkJsOrH5hY4Lk%2BykG2%2FwLAfCAZ8MLcXJnT9ks2gOanYZRmIY8Tk83hWNRZO80lvan1rToD%2F5vGvbdv36qQ5dQTGEpHmQabAOxu8uwWaDA3JPwXoiOM"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"specific_frag\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"specific_frag","localizedErrorMessage":"プロパティー「specific_frag」は存在しません","portalId":44031711}]',
+          'correlation_id' => '218034c4-c34b-4450-9aff-064c71d22e2a',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-24 18:41:21
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 216,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 183,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 1071,
+          'function' => 'skillPost',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 998,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_frag\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"specific_frag\\",\\"localizedErrorMessage\\":\\"プロパティー「specific_frag」は存在しません\\",\\"portalId\\":44031711}]","correlationId":"218034c4-c34b-4450-9aff-064c71d22e2a","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Wed, 24 Jan 2024 09:41:21 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '405',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '84a751f8a96829db-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '118',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-fcdc68c87-w2qjn',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '218034c4-c34b-4450-9aff-064c71d22e2a',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499990',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '218034c4-c34b-4450-9aff-064c71d22e2a',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B5B458E1ADDD9FF1542D955A043DBC51C66656516000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=CUEXbDVAsV%2FE8GSkJsOrH5hY4Lk%2BykG2%2FwLAfCAZ8MLcXJnT9ks2gOanYZRmIY8Tk83hWNRZO80lvan1rToD%2F5vGvbdv36qQ5dQTGEpHmQabAOxu8uwWaDA3JPwXoiOM"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"specific_frag\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"specific_frag","localizedErrorMessage":"プロパティー「specific_frag」は存在しません","portalId":44031711}]',
+          'correlation_id' => '218034c4-c34b-4450-9aff-064c71d22e2a',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-24 18:46:48
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 216,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 183,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 1071,
+          'function' => 'skillPost',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 998,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_frag\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"specific_frag\\",\\"localizedErrorMessage\\":\\"プロパティー「specific_frag」は存在しません\\",\\"portalId\\":44031711}]","correlationId":"13f37077-f986-456b-bfba-ca6204d5f537","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Wed, 24 Jan 2024 09:46:48 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '405',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '84a759f27dc929df-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '93',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-fcdc68c87-lm7fb',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '13f37077-f986-456b-bfba-ca6204d5f537',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499989',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '13f37077-f986-456b-bfba-ca6204d5f537',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B8C326BDCCAA01A8A39F2F1C2A5161125A3528E7A000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=8n2ZNaBnxB44z9rZQor1JfiHcQ6eI5DlCtdnVM7efM1nRbjiYkauAAPGNUHRZAmux1dX8H%2FdQZFKBCpMiKY3RxZjiTiweXd4lAt6IXzEymY%2BbS%2BTpPL9v%2FHImEjaI%2FGP"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"specific_frag\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"specific_frag","localizedErrorMessage":"プロパティー「specific_frag」は存在しません","portalId":44031711}]',
+          'correlation_id' => '13f37077-f986-456b-bfba-ca6204d5f537',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-24 18:46:48
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+    'error' => 
+    \HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_fra (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        1 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 216,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+        ),
+        2 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/assets/HubSpot/HubSpot.php',
+          'line' => 183,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        3 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 1071,
+          'function' => 'skillPost',
+          'class' => 'HubSpot',
+          'type' => '->',
+        ),
+        4 => 
+        array (
+          'file' => '/home/r4815304/public_html/animal-mitsukaru.com/skillchecker2/mail.php',
+          'line' => 998,
+          'function' => 'setHubspot',
+        ),
+      ),
+       'previous' => NULL,
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"specific_frag\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"specific_frag\\",\\"localizedErrorMessage\\":\\"プロパティー「specific_frag」は存在しません\\",\\"portalId\\":44031711}]","correlationId":"13f37077-f986-456b-bfba-ca6204d5f537","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Wed, 24 Jan 2024 09:46:48 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '405',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '84a759f27dc929df-FUK',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '93',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-fcdc68c87-lm7fb',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '13f37077-f986-456b-bfba-ca6204d5f537',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499989',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '13f37077-f986-456b-bfba-ca6204d5f537',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B8C326BDCCAA01A8A39F2F1C2A5161125A3528E7A000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=8n2ZNaBnxB44z9rZQor1JfiHcQ6eI5DlCtdnVM7efM1nRbjiYkauAAPGNUHRZAmux1dX8H%2FdQZFKBCpMiKY3RxZjiTiweXd4lAt6IXzEymY%2BbS%2BTpPL9v%2FHImEjaI%2FGP"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      \HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"specific_frag\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"specific_frag","localizedErrorMessage":"プロパティー「specific_frag」は存在しません","portalId":44031711}]',
+          'correlation_id' => '13f37077-f986-456b-bfba-ca6204d5f537',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+    )),
+  ),
+)
+[export_log] 2024-01-24 18:48:43
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203301',
+        'msg' => '[success]コンタクト登録: 203301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 18:52:29
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203301',
+        'msg' => '[success]コンタクト更新成功: 203301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 18:54:04
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203301',
+        'msg' => '[success]コンタクト更新成功: 203301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 18:54:41
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203301',
+        'msg' => '[success]コンタクト更新成功: 203301',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 18:55:11
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203501',
+        'msg' => '[success]コンタクト登録: 203501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 18:59:56
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203501',
+        'msg' => '[success]コンタクト更新成功: 203501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 19:00:54
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203601',
+        'msg' => '[success]コンタクト登録: 203601',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 19:03:29
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203601',
+        'msg' => '[success]コンタクト更新成功: 203601',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver2',
+      'first_contact' => '診療スキル診断ver2',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 19:04:31
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203701',
+        'msg' => '[success]コンタクト登録: 203701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker2）',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver2',
+      'first_contact' => '診療スキル診断ver2',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 19:06:12
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '203751',
+        'msg' => '[success]コンタクト登録: 203751',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト（skillchecker）',
+      'firstname' => 'テスト',
+      'vvzz3' => '3～5年',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.515@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 19:09:42
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '伊東テスト555',
+      'firstname' => '伊東テスト555',
+      'vvzz3' => 'none',
+      'state' => '東京',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver2',
+      'first_contact' => '診療スキル診断ver2',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-24 19:52:34
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'スプシ確認用テスト',
+      'firstname' => 'スプシ確認用テスト',
+      'vvzz3' => 'none',
+      'state' => '東京',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver2',
+      'first_contact' => '診療スキル診断ver2',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

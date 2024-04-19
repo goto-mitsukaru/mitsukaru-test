@@ -1,0 +1,150 @@
+
+[export_log] 2024-01-12 15:50:47
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '193251',
+        'msg' => '[success]コンタクト登録: 193251',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '小山',
+      'firstname' => '峻弘',
+      'vvzz3' => '5～7年',
+      'state' => '長野県',
+      'email' => 'leafeonlover046@4mail.com',
+      'phone' => '09044615781',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-12 18:45:20
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '50代後半',
+      'state' => '広島県',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '1000万以上',
+      'lastname' => 'テスト伊東年収',
+      'firstname' => 'テスト伊東年収',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-12 19:39:09
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '60代以上',
+      'state' => '鳥取県',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '900～1000万未満',
+      'lastname' => 'テスト旧ドメイン年収診断',
+      'firstname' => 'テスト旧ドメイン年収診断',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-12 19:41:56
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テストスキル旧ドメイン',
+      'firstname' => 'テストスキル旧ドメイン',
+      'vvzz3' => '1～3年',
+      'state' => 'テスト',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-12 19:49:20
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テストすぷ氏スキル',
+      'firstname' => 'テストすぷ氏スキル',
+      'vvzz3' => '1年未満',
+      'state' => 'テスト',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

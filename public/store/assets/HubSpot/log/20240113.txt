@@ -1,0 +1,148 @@
+
+[export_log] 2024-01-13 01:10:44
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '194051',
+        'msg' => '[success]コンタクト登録: 194051',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '山田',
+      'firstname' => 'なつは',
+      'vvzz3' => '1～3年',
+      'state' => '愛知県',
+      'email' => 'chr-nzk.pepe.megu@ezweb.ne.jp',
+      'phone' => '09035867427',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-13 01:27:46
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '194101',
+        'msg' => '[success]コンタクト登録: 194101',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '小澤',
+      'firstname' => '佑太',
+      'vvzz3' => '7年以上',
+      'state' => '東京都',
+      'email' => 'yo.bgkpr1013@gmail.com',
+      'phone' => '09093328209',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-13 13:17:59
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '194351',
+        'msg' => '[success]コンタクト登録: 194351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '秦',
+      'firstname' => '晶子',
+      'vvzz3' => '7年以上',
+      'state' => '大阪',
+      'email' => 'akikohata234@yahoo.co.jp',
+      'phone' => '09062629599',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-13 13:22:18
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '194351',
+        'msg' => '[success]コンタクト更新成功: 194351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代後半',
+      'state' => '大阪府',
+      'vvzz3' => '7年以上',
+      'n224135' => '600～700万未満',
+      'lastname' => '秦',
+      'firstname' => '晶子',
+      'email' => 'akikohata234@yahoo.co.jp',
+      'phone' => '09062629599',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-13 16:44:37
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '194501',
+        'msg' => '[success]コンタクト登録: 194501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '吉田',
+      'firstname' => '奈',
+      'vvzz3' => '3～5年',
+      'state' => '埼玉',
+      'email' => 'ftisland1016@yahoo.co.jp',
+      'phone' => '08092882341',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

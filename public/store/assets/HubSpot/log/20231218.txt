@@ -1,0 +1,2355 @@
+
+[export_log] 2023-12-18 10:37:55
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 10:48:30
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 10:50:03
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:10:26
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:12:17
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:12:38
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:16:48
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:16:57
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:19:18
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:19:40
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:21:01
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:22:51
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:23:35
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:29:40
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:30:20
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:32:26
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:33:44
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:34:34
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:38:04
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => 'no API key',
+  ),
+)
+[export_log] 2023-12-18 13:40:29
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:42:41
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:45:58
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:48:00
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:49:07
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:49:26
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:50:22
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:50:40
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:50:50
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:53:10
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 13:54:12
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["現在の勤務地"]',
+  ),
+)
+[export_log] 2023-12-18 14:03:49
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["state"]',
+  ),
+)
+[export_log] 2023-12-18 15:23:57
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"years_experi (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"years_experience\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"years_experience\\",\\"localizedErrorMessage\\":\\"プロパティー「years_experience」は存在しません\\"},{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"leadsource\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"leadsource\\",\\"localizedErrorMessage\\":\\"プロパティー「leadsource」は存在しません\\"}]","correlationId":"92e553ee-75b9-4f5b-bd67-b6d14e9284af","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 18 Dec 2023 06:23:56 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '617',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '837551e92b2daff1-NRT',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '180',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-s8ffl',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '92e553ee-75b9-4f5b-bd67-b6d14e9284af',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499999',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '92e553ee-75b9-4f5b-bd67-b6d14e9284af',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2BCFD7E9580F3291712B62531A2F4FF92304F90DA0000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nKddZCES0gK5BTfetb7hKXx23Fv%2B3nu1y%2FKdb4ndMAkN0zD4W6ImsyrDhd0qzygZZJ1hkVtOdASveXBUzK59v1obmw1fow8nprrkwwM%2BAaE0LnSrPXSWjpyVwTWgmx9d"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"years_experience\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"years_experience","localizedErrorMessage":"プロパティー「years_experience」は存在しません"},{"isValid":false,"message":"Property \\"leadsource\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"leadsource","localizedErrorMessage":"プロパティー「leadsource」は存在しません"}]',
+          'correlation_id' => '92e553ee-75b9-4f5b-bd67-b6d14e9284af',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"years_experi (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'state' => '沖縄県',
+                  'years_experience' => '7年以上',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 174,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'state' => '沖縄県',
+                  'years_experience' => '7年以上',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 141,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'state' => '沖縄県',
+              'years_experience' => '7年以上',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1150,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'state' => '沖縄県',
+              'years_experience' => '7年以上',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+          'args' => 
+          array (
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-18 15:23:57
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト登録: [400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"years_experi (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"years_experience\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"years_experience\\",\\"localizedErrorMessage\\":\\"プロパティー「years_experience」は存在しません\\"},{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"leadsource\\\\\\" does not exist\\",\\"error\\":\\"PROPERTY_DOESNT_EXIST\\",\\"name\\":\\"leadsource\\",\\"localizedErrorMessage\\":\\"プロパティー「leadsource」は存在しません\\"}]","correlationId":"92e553ee-75b9-4f5b-bd67-b6d14e9284af","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 18 Dec 2023 06:23:56 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '617',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '837551e92b2daff1-NRT',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '180',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-s8ffl',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => '92e553ee-75b9-4f5b-bd67-b6d14e9284af',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499999',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '149',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => '92e553ee-75b9-4f5b-bd67-b6d14e9284af',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2BCFD7E9580F3291712B62531A2F4FF92304F90DA0000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=nKddZCES0gK5BTfetb7hKXx23Fv%2B3nu1y%2FKdb4ndMAkN0zD4W6ImsyrDhd0qzygZZJ1hkVtOdASveXBUzK59v1obmw1fow8nprrkwwM%2BAaE0LnSrPXSWjpyVwTWgmx9d"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"Property \\"years_experience\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"years_experience","localizedErrorMessage":"プロパティー「years_experience」は存在しません"},{"isValid":false,"message":"Property \\"leadsource\\" does not exist","error":"PROPERTY_DOESNT_EXIST","name":"leadsource","localizedErrorMessage":"プロパティー「leadsource」は存在しません"}]',
+          'correlation_id' => '92e553ee-75b9-4f5b-bd67-b6d14e9284af',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `POST https://api.hubapi.com/crm/v3/objects/contacts` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"Property \\\\\\"years_experi (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 398,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 374,
+          'function' => 'createWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'state' => '沖縄県',
+                  'years_experience' => '7年以上',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 174,
+          'function' => 'create',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInputForCreate::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'state' => '沖縄県',
+                  'years_experience' => '7年以上',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'leadsource' => 'leadsource_inquiry',
+                ),
+                'associations' => NULL,
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 141,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'state' => '沖縄県',
+              'years_experience' => '7年以上',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1150,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'state' => '沖縄県',
+              'years_experience' => '7年以上',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'leadsource' => 'leadsource_inquiry',
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+          'args' => 
+          array (
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-18 15:29:07
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '115451',
+        'msg' => '[success]コンタクト登録: 115451',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'state' => '沖縄県',
+      'vvzz3' => '7年以上',
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+    ),
+  ),
+)
+[export_log] 2023-12-18 15:35:26
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '115501',
+        'msg' => '[success]コンタクト登録: 115501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'state' => '沖縄県',
+      'vvzz3' => '7年以上',
+      'n224135' => '600～700万未満',
+      'lastname' => '後藤テスト',
+      'firstname' => '正文テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+    ),
+  ),
+)
+[export_log] 2023-12-18 15:54:38
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '116151',
+        'msg' => '[success]コンタクト登録: 116151',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'state' => '沖縄県',
+      'vvzz3' => '7年以上',
+      'n224135' => '600～700万未満',
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+    ),
+  ),
+)
+[export_log] 2023-12-18 16:51:10
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["n26"]',
+  ),
+)
+[export_log] 2023-12-18 16:51:25
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'msg' => '[error]登録: unidentified ["n26"]',
+  ),
+)
+[export_log] 2023-12-18 16:51:39
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '118401',
+        'msg' => '[success]コンタクト登録: 118401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'state' => '北海道',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '600～700万未満',
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 16:58:09
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオプション（[label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 0\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 1\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 2\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 3\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 4\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 5\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 6\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 7\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\ndisplay_order: 8\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\nvalue: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\ndisplay_order: 9\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\"\\\\nvalue: \\\\\\"\\\\\\"\\\\ndisplay_order: 10\\\\nhidden: false\\\\nread_only: false\\\\n]）のいずれかではありませんでした\\",\\"error\\":\\"INVALID_OPTION\\",\\"name\\":\\"n26\\"}]","correlationId":"fccbf163-d3d8-437e-8606-54b8800b843c","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 18 Dec 2023 07:58:09 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '2587',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8375dbe9d9f7263e-NRT',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '54',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-9ds72',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => 'fccbf163-d3d8-437e-8606-54b8800b843c',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499993',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '148',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => 'fccbf163-d3d8-437e-8606-54b8800b843c',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B441EA2FABA798A17EAFDFBB401A76B5EF9CB07B5000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=WwG9nkCImGfXitrve%2BlBT%2FiUVZHRryCUWcj7UEaw0B%2F6SWxQPbXczjc7Q0PgN8N2M%2FGTor7IgrX2Yd4Jq%2BxMhKm2NP81rb2NE4f3PY6pZC9Oo3E7b%2Bz7c%2BKlt%2F6c6%2FTb"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"1952は許可されたオプション（[label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 0\\nhidden: false\\nread_only: false\\n, label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 1\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 2\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 3\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 4\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 5\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 6\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 7\\nhidden: false\\nread_only: false\\n, label: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\nvalue: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\ndisplay_order: 8\\nhidden: false\\nread_only: false\\n, label: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\nvalue: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\ndisplay_order: 9\\nhidden: false\\nread_only: false\\n, label: \\"\\"\\nvalue: \\"\\"\\ndisplay_order: 10\\nhidden: false\\nread_only: false\\n]）のいずれかではありませんでした","error":"INVALID_OPTION","name":"n26"}]',
+          'correlation_id' => 'fccbf163-d3d8-437e-8606-54b8800b843c',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+            2 => NULL,
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 187,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 163,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 110,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1142,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        5 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+          'args' => 
+          array (
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-18 16:58:09
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオプション（[label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 0\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 1\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 2\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 3\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 4\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 5\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 6\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 7\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\ndisplay_order: 8\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\nvalue: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\ndisplay_order: 9\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\"\\\\nvalue: \\\\\\"\\\\\\"\\\\ndisplay_order: 10\\\\nhidden: false\\\\nread_only: false\\\\n]）のいずれかではありませんでした\\",\\"error\\":\\"INVALID_OPTION\\",\\"name\\":\\"n26\\"}]","correlationId":"fccbf163-d3d8-437e-8606-54b8800b843c","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 18 Dec 2023 07:58:09 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '2587',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8375dbe9d9f7263e-NRT',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '54',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-9ds72',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => 'fccbf163-d3d8-437e-8606-54b8800b843c',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499993',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '148',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => 'fccbf163-d3d8-437e-8606-54b8800b843c',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B441EA2FABA798A17EAFDFBB401A76B5EF9CB07B5000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=WwG9nkCImGfXitrve%2BlBT%2FiUVZHRryCUWcj7UEaw0B%2F6SWxQPbXczjc7Q0PgN8N2M%2FGTor7IgrX2Yd4Jq%2BxMhKm2NP81rb2NE4f3PY6pZC9Oo3E7b%2Bz7c%2BKlt%2F6c6%2FTb"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"1952は許可されたオプション（[label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 0\\nhidden: false\\nread_only: false\\n, label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 1\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 2\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 3\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 4\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 5\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 6\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 7\\nhidden: false\\nread_only: false\\n, label: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\nvalue: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\ndisplay_order: 8\\nhidden: false\\nread_only: false\\n, label: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\nvalue: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\ndisplay_order: 9\\nhidden: false\\nread_only: false\\n, label: \\"\\"\\nvalue: \\"\\"\\ndisplay_order: 10\\nhidden: false\\nread_only: false\\n]）のいずれかではありませんでした","error":"INVALID_OPTION","name":"n26"}]',
+          'correlation_id' => 'fccbf163-d3d8-437e-8606-54b8800b843c',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+            2 => NULL,
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 187,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 163,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 110,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1142,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        5 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+          'args' => 
+          array (
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-18 16:58:25
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオプション（[label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 0\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 1\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 2\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 3\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 4\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 5\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 6\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 7\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\ndisplay_order: 8\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\nvalue: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\ndisplay_order: 9\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\"\\\\nvalue: \\\\\\"\\\\\\"\\\\ndisplay_order: 10\\\\nhidden: false\\\\nread_only: false\\\\n]）のいずれかではありませんでした\\",\\"error\\":\\"INVALID_OPTION\\",\\"name\\":\\"n26\\"}]","correlationId":"e316dca2-2738-411a-a1ae-9f858800d503","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 18 Dec 2023 07:58:25 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '2587',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8375dc4e0b56e354-NRT',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '56',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-mxcpm',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => 'e316dca2-2738-411a-a1ae-9f858800d503',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499991',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '148',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => 'e316dca2-2738-411a-a1ae-9f858800d503',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B7B937E2D527801E136A6DBB038BD3880F0BDCAB2000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=uKIYcdb7nDrQhXFuy5BAkJmULEaMs22SZyQsn2XUMocx%2FrUocEU%2F0cx67m%2BvmgrMTcjfm5E7k0LKjyD8GLTUIQjDCTArgUczMzHgKN%2Bv%2Bb02uX79dyyzTBcONDI8PeUa"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"1952は許可されたオプション（[label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 0\\nhidden: false\\nread_only: false\\n, label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 1\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 2\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 3\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 4\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 5\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 6\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 7\\nhidden: false\\nread_only: false\\n, label: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\nvalue: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\ndisplay_order: 8\\nhidden: false\\nread_only: false\\n, label: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\nvalue: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\ndisplay_order: 9\\nhidden: false\\nread_only: false\\n, label: \\"\\"\\nvalue: \\"\\"\\ndisplay_order: 10\\nhidden: false\\nread_only: false\\n]）のいずれかではありませんでした","error":"INVALID_OPTION","name":"n26"}]',
+          'correlation_id' => 'e316dca2-2738-411a-a1ae-9f858800d503',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+            2 => NULL,
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 187,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 163,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 110,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1142,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        5 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+          'args' => 
+          array (
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-18 16:58:25
+array (
+  'success' => false,
+  'result' => 
+  array (
+    'id' => '',
+    'msg' => '[error]コンタクト更新失敗: [400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+    'error' => 
+    HubSpot\Client\Crm\Contacts\ApiException::__set_state(array(
+       'responseBody' => '{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオプション（[label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 0\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"20\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 1\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 2\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"30\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 3\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 4\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"40\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 5\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\211\\\\\\\\215\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 6\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"50\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\345\\\\\\\\276\\\\\\\\214\\\\\\\\345\\\\\\\\215\\\\\\\\212\\\\\\"\\\\ndisplay_order: 7\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\nvalue: \\\\\\"60\\\\\\\\344\\\\\\\\273\\\\\\\\243\\\\\\\\344\\\\\\\\273\\\\\\\\245\\\\\\\\344\\\\\\\\270\\\\\\\\212\\\\\\"\\\\ndisplay_order: 8\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\nvalue: \\\\\\"\\\\\\\\344\\\\\\\\270\\\\\\\\215\\\\\\\\346\\\\\\\\230\\\\\\\\216\\\\\\"\\\\ndisplay_order: 9\\\\nhidden: false\\\\nread_only: false\\\\n, label: \\\\\\"\\\\\\"\\\\nvalue: \\\\\\"\\\\\\"\\\\ndisplay_order: 10\\\\nhidden: false\\\\nread_only: false\\\\n]）のいずれかではありませんでした\\",\\"error\\":\\"INVALID_OPTION\\",\\"name\\":\\"n26\\"}]","correlationId":"e316dca2-2738-411a-a1ae-9f858800d503","category":"VALIDATION_ERROR"}',
+       'responseHeaders' => 
+      array (
+        'Date' => 
+        array (
+          0 => 'Mon, 18 Dec 2023 07:58:25 GMT',
+        ),
+        'Content-Type' => 
+        array (
+          0 => 'application/json;charset=utf-8',
+        ),
+        'Content-Length' => 
+        array (
+          0 => '2587',
+        ),
+        'Connection' => 
+        array (
+          0 => 'keep-alive',
+        ),
+        'CF-Ray' => 
+        array (
+          0 => '8375dc4e0b56e354-NRT',
+        ),
+        'CF-Cache-Status' => 
+        array (
+          0 => 'DYNAMIC',
+        ),
+        'Strict-Transport-Security' => 
+        array (
+          0 => 'max-age=31536000; includeSubDomains; preload',
+        ),
+        'Vary' => 
+        array (
+          0 => 'origin',
+        ),
+        'Access-Control-Allow-Credentials' => 
+        array (
+          0 => 'false',
+        ),
+        'X-Content-Type-Options' => 
+        array (
+          0 => 'nosniff',
+        ),
+        'x-envoy-upstream-service-time' => 
+        array (
+          0 => '56',
+        ),
+        'x-evy-trace-listener' => 
+        array (
+          0 => 'listener_https',
+        ),
+        'x-evy-trace-route-configuration' => 
+        array (
+          0 => 'listener_https/all',
+        ),
+        'x-evy-trace-route-service-name' => 
+        array (
+          0 => 'envoyset-translator',
+        ),
+        'x-evy-trace-served-by-pod' => 
+        array (
+          0 => 'iad02/hubapi-td/envoy-proxy-57d4fb94bb-mxcpm',
+        ),
+        'x-evy-trace-virtual-host' => 
+        array (
+          0 => 'all',
+        ),
+        'X-HubSpot-Correlation-Id' => 
+        array (
+          0 => 'e316dca2-2738-411a-a1ae-9f858800d503',
+        ),
+        'X-HubSpot-RateLimit-Daily' => 
+        array (
+          0 => '500000',
+        ),
+        'X-HubSpot-RateLimit-Daily-Remaining' => 
+        array (
+          0 => '499991',
+        ),
+        'X-HubSpot-RateLimit-Interval-Milliseconds' => 
+        array (
+          0 => '10000',
+        ),
+        'X-HubSpot-RateLimit-Max' => 
+        array (
+          0 => '150',
+        ),
+        'X-HubSpot-RateLimit-Remaining' => 
+        array (
+          0 => '148',
+        ),
+        'X-HubSpot-RateLimit-Secondly' => 
+        array (
+          0 => '15',
+        ),
+        'X-HubSpot-RateLimit-Secondly-Remaining' => 
+        array (
+          0 => '14',
+        ),
+        'x-request-id' => 
+        array (
+          0 => 'e316dca2-2738-411a-a1ae-9f858800d503',
+        ),
+        'X-Trace' => 
+        array (
+          0 => '2B7B937E2D527801E136A6DBB038BD3880F0BDCAB2000000000000000000',
+        ),
+        'Report-To' => 
+        array (
+          0 => '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=uKIYcdb7nDrQhXFuy5BAkJmULEaMs22SZyQsn2XUMocx%2FrUocEU%2F0cx67m%2BvmgrMTcjfm5E7k0LKjyD8GLTUIQjDCTArgUczMzHgKN%2Bv%2Bb02uX79dyyzTBcONDI8PeUa"}],"group":"cf-nel","max_age":604800}',
+        ),
+        'NEL' => 
+        array (
+          0 => '{"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}',
+        ),
+        'Server' => 
+        array (
+          0 => 'cloudflare',
+        ),
+      ),
+       'responseObject' => 
+      HubSpot\Client\Crm\Contacts\Model\Error::__set_state(array(
+         'container' => 
+        array (
+          'message' => 'Property values were not valid: [{"isValid":false,"message":"1952は許可されたオプション（[label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 0\\nhidden: false\\nread_only: false\\n, label: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"20\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 1\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 2\\nhidden: false\\nread_only: false\\n, label: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"30\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 3\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 4\\nhidden: false\\nread_only: false\\n, label: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"40\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 5\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\211\\\\215\\\\345\\\\215\\\\212\\"\\ndisplay_order: 6\\nhidden: false\\nread_only: false\\n, label: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\nvalue: \\"50\\\\344\\\\273\\\\243\\\\345\\\\276\\\\214\\\\345\\\\215\\\\212\\"\\ndisplay_order: 7\\nhidden: false\\nread_only: false\\n, label: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\nvalue: \\"60\\\\344\\\\273\\\\243\\\\344\\\\273\\\\245\\\\344\\\\270\\\\212\\"\\ndisplay_order: 8\\nhidden: false\\nread_only: false\\n, label: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\nvalue: \\"\\\\344\\\\270\\\\215\\\\346\\\\230\\\\216\\"\\ndisplay_order: 9\\nhidden: false\\nread_only: false\\n, label: \\"\\"\\nvalue: \\"\\"\\ndisplay_order: 10\\nhidden: false\\nread_only: false\\n]）のいずれかではありませんでした","error":"INVALID_OPTION","name":"n26"}]',
+          'correlation_id' => 'e316dca2-2738-411a-a1ae-9f858800d503',
+          'category' => 'VALIDATION_ERROR',
+          'sub_category' => NULL,
+          'errors' => NULL,
+          'context' => NULL,
+          'links' => NULL,
+        ),
+      )),
+       'message' => '[400] Client error: `PATCH https://api.hubapi.com/crm/v3/objects/contacts/118401` resulted in a `400 Bad Request` response:
+{"status":"error","message":"Property values were not valid: [{\\"isValid\\":false,\\"message\\":\\"1952は許可されたオ (truncated...)
+',
+       'string' => '',
+       'code' => 400,
+       'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+       'line' => 1471,
+       'trace' => 
+      array (
+        0 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/vendor/hubspot/api-client/codegen/Crm/Contacts/Api/BasicApi.php',
+          'line' => 1445,
+          'function' => 'updateWithHttpInfo',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+            2 => NULL,
+          ),
+        ),
+        1 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 187,
+          'function' => 'update',
+          'class' => 'HubSpot\\Client\\Crm\\Contacts\\Api\\BasicApi',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            HubSpot\Client\Crm\Contacts\Model\SimplePublicObjectInput::__set_state(array(
+               'container' => 
+              array (
+                'properties' => 
+                array (
+                  'n26' => '1952',
+                  'state' => '北海道',
+                  'vvzz3' => '1年〜3年',
+                  'n224135' => '600～700万未満',
+                  'lastname' => 'テスト',
+                  'firstname' => 'テスト',
+                  'email' => 'bugright.9w1v2.510@gmail.com',
+                  'phone' => '09058391234',
+                  'first_contact' => '年収診断',
+                  'n4456' => '問い合わせ',
+                ),
+              ),
+            )),
+          ),
+        ),
+        2 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 163,
+          'function' => 'updateContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => '118401',
+            1 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/assets/HubSpot/HubSpot.php',
+          'line' => 110,
+          'function' => 'postContact',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1142,
+          'function' => 'post',
+          'class' => 'HubSpot',
+          'type' => '->',
+          'args' => 
+          array (
+            0 => 
+            array (
+              'n26' => '1952',
+              'state' => '北海道',
+              'vvzz3' => '1年〜3年',
+              'n224135' => '600～700万未満',
+              'lastname' => 'テスト',
+              'firstname' => 'テスト',
+              'email' => 'bugright.9w1v2.510@gmail.com',
+              'phone' => '09058391234',
+              'first_contact' => '年収診断',
+              'n4456' => '問い合わせ',
+            ),
+          ),
+        ),
+        5 => 
+        array (
+          'file' => '/Applications/MAMP/htdocs/com/incomechecker/mail.php',
+          'line' => 1067,
+          'function' => 'setHubspot',
+          'args' => 
+          array (
+          ),
+        ),
+      ),
+       'previous' => NULL,
+    )),
+  ),
+)
+[export_log] 2023-12-18 17:25:49
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '118401',
+        'msg' => '[success]コンタクト更新成功: 118401',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '60代以上',
+      'state' => '北海道',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '600～700万未満',
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 17:29:49
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '119501',
+        'msg' => '[success]コンタクト登録: 119501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '60代以上',
+      'state' => '北海道',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '600～700万未満',
+      'lastname' => '後藤テスト',
+      'firstname' => 'テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 17:41:28
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '119501',
+        'msg' => '[success]コンタクト更新成功: 119501',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '60代以上',
+      'state' => '1',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '400～500万未満',
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 18:46:49
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '121701',
+        'msg' => '[success]コンタクト登録: 121701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト',
+      'firstname' => 'テスト',
+      'vvzz3' => '1年未満',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 18:50:23
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '121901',
+        'msg' => '[success]コンタクト登録: 121901',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => '後藤テスト',
+      'firstname' => 'テスト',
+      'vvzz3' => '1～3年',
+      'state' => '東京都',
+      'email' => 'bugright.9w1v2.510@gmail.com',
+      'phone' => '09058391234',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 19:26:05
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '27351',
+        'msg' => '[success]コンタクト更新成功: 27351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '60代以上',
+      'state' => '山梨県',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '400万未満',
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 19:31:40
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '27351',
+        'msg' => '[success]コンタクト更新成功: 27351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'vvzz3' => '1年未満',
+      'state' => 'テスト',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2023-12-18 19:33:58
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '27351',
+        'msg' => '[success]コンタクト更新成功: 27351',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト２',
+      'firstname' => 'テスト２',
+      'vvzz3' => '1～3年',
+      'state' => 'テスト',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

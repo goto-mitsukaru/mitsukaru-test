@@ -1,0 +1,63 @@
+
+[export_log] 2024-01-07 12:39:32
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190951',
+        'msg' => '[success]コンタクト登録: 190951',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '沖縄県',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '1000万以上',
+      'lastname' => '青柳',
+      'firstname' => 'ゆうすけ',
+      'email' => 'ycit.0421@gmail.com',
+      'phone' => '08051238941',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-07 19:58:33
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '191001',
+        'msg' => '[success]コンタクト登録: 191001',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '福岡県',
+      'vvzz3' => '3年〜5年',
+      'n224135' => '400～500万未満',
+      'lastname' => '浅見',
+      'firstname' => '公平',
+      'email' => 'pokilin13@gmail.com',
+      'phone' => '08027776763',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)

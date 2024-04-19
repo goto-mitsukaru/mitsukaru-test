@@ -1,0 +1,150 @@
+
+[export_log] 2024-01-23 00:19:27
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '201451',
+        'msg' => '[success]コンタクト登録: 201451',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '30代前半',
+      'state' => '東京都',
+      'vvzz3' => '5年〜7年',
+      'n224135' => '500～600万未満',
+      'lastname' => 'すどう',
+      'firstname' => 'めい',
+      'email' => 'mai2123js@yahoo.co.jp',
+      'phone' => '08035410340',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-23 16:31:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '195201',
+        'msg' => '[success]コンタクト更新成功: 195201',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト',
+      'firstname' => 'テスト',
+      'vvzz3' => 'none',
+      'state' => '東京都',
+      'email' => 'miyazaki@mitsukaru-jpn.com',
+      'phone' => '0345004401',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-23 16:31:45
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト外科診断',
+      'firstname' => 'テスト外科診断',
+      'vvzz3' => 'none',
+      'state' => '東京',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-23 19:35:37
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '190701',
+        'msg' => '[success]コンタクト更新成功: 190701',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'lastname' => 'テスト外科2',
+      'firstname' => 'テスト外科2',
+      'state' => '東京',
+      'email' => 'ito@mitsukaru-jpn.com',
+      'phone' => '08055908710',
+      'vvzz3' => 'none',
+      'contents_history' => '診療スキル診断ver1',
+      'first_contact' => '診療スキル診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
+[export_log] 2024-01-23 21:03:41
+array (
+  'success' => true,
+  'result' => 
+  array (
+    'msg' => '[success]POST',
+    'contact_result' => 
+    array (
+      'success' => true,
+      'result' => 
+      array (
+        'id' => '92451',
+        'msg' => '[success]コンタクト更新成功: 92451',
+      ),
+    ),
+    'post_data' => 
+    array (
+      'n26' => '20代後半',
+      'state' => '東京都',
+      'vvzz3' => '1年〜3年',
+      'n224135' => '500～600万未満',
+      'lastname' => '小池',
+      'firstname' => '拓磨',
+      'email' => 'doraemon090323@gmail.com',
+      'phone' => '08011079810',
+      'contents_history' => '年収診断',
+      'first_contact' => '年収診断',
+      'n4456' => '問い合わせ',
+    ),
+  ),
+)
